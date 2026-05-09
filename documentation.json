@@ -1,5 +1,5 @@
 {
-  "name": "Advancemed",
+  "name": "Advancemed_KnowledgeBase",
   "colors": {
     "light": {
       "brand": "#fc5708"
@@ -121,5 +121,7 @@
         ]
       }
     ]
-  }
+  },
+  "title": "Advancemed_KnowledgeBase",
+  "description": "Helpful information for doctors wanting to advance their medical careers in Australia or New Zealand."
 }
