@@ -51,6 +51,12 @@
                 "icon": "book-open"
               }
             ]
+          },
+          {
+            "group": "Private Documentation",
+            "pages": [],
+            "icon": "key",
+            "path": "private-documentation"
           }
         ]
       },
