@@ -128,5 +128,15 @@
   "logo-light": "https://blob-cdn.documentation.ai/org-d0c61cd1-71f1-4cb3-b392-57baf465f957/doc-574e6de8-a0d9-4975-83d5-ab9abca29778/1778306059742-ylwuhc9g7r-AdvanceMed-ICON-Large-copy.png?fm=auto&auto=compress%2Cformat",
   "favicon": "https://blob-cdn.documentation.ai/org-d0c61cd1-71f1-4cb3-b392-57baf465f957/doc-574e6de8-a0d9-4975-83d5-ab9abca29778/1778306059742-ylwuhc9g7r-AdvanceMed-ICON-Large-copy.png?fm=auto&auto=compress%2Cformat",
   "template": "atlas",
-  "initialRoute": "help-center"
+  "initialRoute": "help-center",
+  "integrations": {
+    "plausible": {
+      "domain": "knowledge.advancemed.com.au"
+    }
+  },
+  "scripts": [
+    {
+      "src": "scripts/plausible.js"
+    }
+  ]
 }
