@@ -82,7 +82,7 @@
         "pages": [
           {
             "title": "Help Center",
-            "path": "help-center",
+            "path": "help-centre",
             "icon": "home"
           },
           {
@@ -144,6 +144,12 @@
   "integrations": {
     "plausible": {
       "domain": "knowledge.advancemed.com.au"
+    },
+    "cookies": {
+      "analytics": {
+        "key": "",
+        "value": ""
+      }
     }
   },
   "scripts": [
