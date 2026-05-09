@@ -60,7 +60,8 @@
             "group": "Private Documentation",
             "pages": [],
             "icon": "key",
-            "path": "private-documentation"
+            "path": "private-documentation",
+            "public": false
           }
         ],
         "public": true
