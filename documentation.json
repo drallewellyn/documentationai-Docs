@@ -150,5 +150,13 @@
     {
       "src": "scripts/plausible.js"
     }
-  ]
+  ],
+  "navbar": {
+    "actions": {
+      "primary": {
+        "title": "Get Help",
+        "link": "https://coaching.advancemed.com.au"
+      }
+    }
+  }
 }
