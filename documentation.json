@@ -21,14 +21,16 @@
               {
                 "title": "Introduction",
                 "path": "introduction",
-                "icon": "home"
+                "icon": "home",
+                "public": true
               },
               {
                 "title": "Quickstart",
                 "path": "quickstart",
                 "icon": "zap"
               }
-            ]
+            ],
+            "public": true
           },
           {
             "group": "Core Concepts",
@@ -39,7 +41,8 @@
                 "path": "features",
                 "icon": "file-text"
               }
-            ]
+            ],
+            "public": true
           },
           {
             "group": "Guides",
@@ -50,7 +53,8 @@
                 "path": "coaching-guide",
                 "icon": "book-open"
               }
-            ]
+            ],
+            "public": true
           },
           {
             "group": "Private Documentation",
@@ -58,7 +62,8 @@
             "icon": "key",
             "path": "private-documentation"
           }
-        ]
+        ],
+        "public": true
       },
       {
         "tab": "API Reference",
@@ -113,7 +118,8 @@
               }
             ]
           }
-        ]
+        ],
+        "public": true
       },
       {
         "tab": "Changelog",
