@@ -1,0 +1,31 @@
+{
+  "generated": "2026-05-09",
+  "source": "help.advancemed.com.au",
+  "target": "advancemed.documentationai.com",
+  "articles": [
+    { "source_id": 12, "source_url": "https://help.advancemed.com.au/article/12-what-services-do-you-provide-for-international-doctors", "destination": "01-getting-started/services-for-international-doctors.mdx" },
+    { "source_id": 19, "source_url": "https://help.advancemed.com.au/article/19-what-is-the-duration-of-the-session-s", "destination": "01-getting-started/session-duration.mdx" },
+    { "source_id": 13, "source_url": "https://help.advancemed.com.au/article/13-strategy-call-clarity-call-how-it-works-and-how-to-book", "destination": "02-services/strategy-clarity-calls.mdx" },
+    { "source_id": 51, "source_url": "https://help.advancemed.com.au/article/51-how-does-the-cv-resume-rewrite-work", "destination": "02-services/cv-resume-rewrite.mdx" },
+    { "source_id": 46, "source_url": "https://help.advancemed.com.au/article/46-do-you-help-with-cvs-and-resumes", "destination": "02-services/do-you-help-with-cvs.mdx" },
+    { "source_id": 29, "source_url": "https://help.advancemed.com.au/article/29-can-i-have-a-word-version-of-my-cv-resume", "destination": "02-services/word-version-of-cv.mdx" },
+    { "source_id": [6, 34], "source_url": ["https://help.advancemed.com.au/article/6-cover-letters", "https://help.advancemed.com.au/article/34-can-you-help-with-a-cover-letter-or-selection-criteria"], "destination": "02-services/cover-letters-and-selection-criteria.mdx", "merged": true },
+    { "source_id": 48, "source_url": "https://help.advancemed.com.au/article/48-free-courses-for-img-doctors", "destination": "02-services/free-courses-for-imgs.mdx" },
+    { "source_id": 22, "source_url": "https://help.advancemed.com.au/article/22-how-to-work-as-a-specialist-doctor-in-australia", "destination": "03-international-medical-graduates/work-as-specialist-doctor.mdx" },
+    { "source_id": 49, "source_url": "https://help.advancemed.com.au/article/49-will-the-exam-exempt-me-from-having-to-sit-the-amc-exams", "destination": "03-international-medical-graduates/amc-exam-exemptions.mdx", "title_cleanup": "Original title contained '.....' placeholder" },
+    { "source_id": 36, "source_url": "https://help.advancemed.com.au/article/36-what-are-the-immigration-rules-for-doctors-coming-to-australia", "destination": "03-international-medical-graduates/immigration-rules.mdx", "stub": true },
+    { "source_id": [18, 47], "source_url": ["https://help.advancemed.com.au/article/18-img-internship-in-australia", "https://help.advancemed.com.au/article/47-am-i-able-to-do-an-internship-in-australia"], "destination": "03-international-medical-graduates/img-internship.mdx", "merged": true },
+    { "source_id": 41, "source_url": "https://help.advancemed.com.au/article/41-can-i-work-locums-as-an-international-medical-graduate", "destination": "03-international-medical-graduates/locum-as-img.mdx", "slug_cleanup": "Original slug was a full paragraph" },
+    { "source_id": 37, "source_url": "https://help.advancemed.com.au/article/37-can-overseas-doctors-work-as-a-psychiatrist-in-australia", "destination": "03-international-medical-graduates/overseas-psychiatrists.mdx" },
+    { "source_id": [30, 31], "source_url": ["https://help.advancemed.com.au/article/30-how-long-does-it-take-to-become-a-psychiatrist-in-australia", "https://help.advancemed.com.au/article/31-what-qualifications-do-you-need-to-become-a-psychiatrist-in-australia"], "destination": "04-career-pathways/become-a-psychiatrist-australia.mdx", "merged": true },
+    { "source_id": 32, "source_url": "https://help.advancemed.com.au/article/32-how-to-become-a-nurse-in-australia", "destination": "04-career-pathways/become-a-nurse-australia.mdx" },
+    { "source_id": [33, 35, 50], "source_url": ["https://help.advancemed.com.au/article/33-how-much-does-a-consultant-psychiatrist-earn-in-australia", "https://help.advancemed.com.au/article/35-do-psychiatrists-make-good-money", "https://help.advancemed.com.au/article/50-what-field-of-psychiatry-makes-the-most-money"], "destination": "04-career-pathways/psychiatrist-income-australia.mdx", "merged": true, "slug_cleanup": "Article 35 slug was a full paragraph" },
+    { "source_id": 44, "source_url": "https://help.advancemed.com.au/article/44-how-do-medical-recruitment-agencies-make-money", "destination": "05-recruitment-and-practice/recruitment-agencies-how-they-make-money.mdx" },
+    { "source_id": 42, "source_url": "https://help.advancemed.com.au/article/42-do-i-need-to-sign-up-to-just-one-medical-recruitment-agent-or-can-i-sign-with-more", "destination": "05-recruitment-and-practice/single-vs-multiple-agents.mdx" },
+    { "source_id": 40, "source_url": "https://help.advancemed.com.au/article/40-what-happens-to-my-continuing-professional-development-when-i-work-as-a-locum", "destination": "05-recruitment-and-practice/cpd-as-a-locum.mdx" },
+    { "source_id": 45, "source_url": "https://help.advancemed.com.au/article/45-if-i-work-more-than-38-hours-in-a-week-can-i-count-these-additional-hours-towards-demonstrating-recency-of-practice", "destination": "05-recruitment-and-practice/recency-of-practice-38-hours.mdx" },
+    { "source_id": 38, "source_url": "https://help.advancemed.com.au/article/38-are-there-any-good-places-to-find-interview-questions-to-practice-on", "destination": "05-recruitment-and-practice/interview-question-practice.mdx" },
+    { "source_id": 23, "source_url": "https://help.advancemed.com.au/article/23-how-to-cancel-or-alter-your-subscription", "destination": "06-account-and-billing/cancel-or-change-subscription.mdx" },
+    { "source_id": 20, "source_url": "https://help.advancemed.com.au/article/20-how-do-i-change-the-credit-card-details-for-my-next-payment", "destination": "06-account-and-billing/update-credit-card.mdx" }
+  ]
+}
