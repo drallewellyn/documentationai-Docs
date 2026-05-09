@@ -77,6 +77,7 @@
             "expandable": true,
             "pages": [
               { "title": "Pricing summary", "path": "help-center/services/pricing-summary" },
+              { "title": "VIP portal — General, SET, Mini", "path": "help-center/services/vip-portal" },
               { "title": "Strategy / Clarity Calls", "path": "help-center/services/strategy-clarity-calls" },
               { "title": "What to expect from a coaching series", "path": "help-center/services/coaching-series" },
               { "title": "Group coaching and cohort programs", "path": "help-center/services/group-coaching" },
