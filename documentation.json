@@ -18,22 +18,38 @@
             "group": "Getting Started",
             "icon": "rocket",
             "pages": [
-              { "title": "Introduction", "path": "introduction", "icon": "home" },
-              { "title": "Quickstart", "path": "quickstart", "icon": "zap" }
+              {
+                "title": "Introduction",
+                "path": "introduction",
+                "icon": "home"
+              },
+              {
+                "title": "Quickstart",
+                "path": "quickstart",
+                "icon": "zap"
+              }
             ]
           },
           {
             "group": "Core Concepts",
             "icon": "layers",
             "pages": [
-              { "title": "Services overview", "path": "features", "icon": "file-text" }
+              {
+                "title": "Services overview",
+                "path": "features",
+                "icon": "file-text"
+              }
             ]
           },
           {
             "group": "Guides",
             "icon": "compass",
             "pages": [
-              { "title": "Coaching guide", "path": "coaching-guide", "icon": "book-open" }
+              {
+                "title": "Coaching guide",
+                "path": "coaching-guide",
+                "icon": "book-open"
+              }
             ]
           },
           {
@@ -59,16 +75,32 @@
         "tab": "Help Center",
         "icon": "help-circle",
         "pages": [
-          { "title": "Help Center", "path": "help-centre", "icon": "home" },
+          {
+            "title": "Help Center",
+            "path": "help-centre",
+            "icon": "home"
+          },
           {
             "group": "Getting Started",
             "icon": "rocket",
             "expandable": true,
             "pages": [
-              { "title": "Services for international doctors", "path": "help-center/getting-started/services-for-international-doctors" },
-              { "title": "How long do sessions go for?", "path": "help-center/getting-started/session-duration" },
-              { "title": "About Dr Anthony Llewellyn", "path": "help-center/getting-started/about-anthony-llewellyn" },
-              { "title": "What clients say", "path": "help-center/getting-started/testimonials" }
+              {
+                "title": "Services for international doctors",
+                "path": "help-center/getting-started/services-for-international-doctors"
+              },
+              {
+                "title": "How long do sessions go for?",
+                "path": "help-center/getting-started/session-duration"
+              },
+              {
+                "title": "About Dr Anthony Llewellyn",
+                "path": "help-center/getting-started/about-anthony-llewellyn"
+              },
+              {
+                "title": "What clients say",
+                "path": "help-center/getting-started/testimonials"
+              }
             ]
           },
           {
@@ -76,18 +108,54 @@
             "icon": "briefcase",
             "expandable": true,
             "pages": [
-              { "title": "Pricing summary", "path": "help-center/services/pricing-summary" },
-              { "title": "VIP portal — General, SET, Mini", "path": "help-center/services/vip-portal" },
-              { "title": "Strategy / Clarity Calls", "path": "help-center/services/strategy-clarity-calls" },
-              { "title": "What to expect from a coaching series", "path": "help-center/services/coaching-series" },
-              { "title": "Group coaching and cohort programs", "path": "help-center/services/group-coaching" },
-              { "title": "CV / Resume rewrite — how it works", "path": "help-center/services/cv-resume-rewrite" },
-              { "title": "Do you help with CVs and resumes?", "path": "help-center/services/do-you-help-with-cvs" },
-              { "title": "What a strong doctor CV looks like", "path": "help-center/services/cv-examples" },
-              { "title": "Can I have a Word version of my CV?", "path": "help-center/services/word-version-of-cv" },
-              { "title": "VisualCV licence", "path": "help-center/services/visualcv-licence" },
-              { "title": "Cover letters and selection criteria", "path": "help-center/services/cover-letters-and-selection-criteria" },
-              { "title": "Free courses for IMG doctors", "path": "help-center/services/free-courses-for-imgs" }
+              {
+                "title": "Pricing summary",
+                "path": "help-center/services/pricing-summary"
+              },
+              {
+                "title": "VIP portal — General, SET, Mini",
+                "path": "help-center/services/vip-portal"
+              },
+              {
+                "title": "Strategy / Clarity Calls",
+                "path": "help-center/services/strategy-clarity-calls"
+              },
+              {
+                "title": "What to expect from a coaching series",
+                "path": "help-center/services/coaching-series"
+              },
+              {
+                "title": "Group coaching and cohort programs",
+                "path": "help-center/services/group-coaching"
+              },
+              {
+                "title": "CV / Resume rewrite — how it works",
+                "path": "help-center/services/cv-resume-rewrite"
+              },
+              {
+                "title": "Do you help with CVs and resumes?",
+                "path": "help-center/services/do-you-help-with-cvs"
+              },
+              {
+                "title": "What a strong doctor CV looks like",
+                "path": "help-center/services/cv-examples"
+              },
+              {
+                "title": "Can I have a Word version of my CV?",
+                "path": "help-center/services/word-version-of-cv"
+              },
+              {
+                "title": "VisualCV licence",
+                "path": "help-center/services/visualcv-licence"
+              },
+              {
+                "title": "Cover letters and selection criteria",
+                "path": "help-center/services/cover-letters-and-selection-criteria"
+              },
+              {
+                "title": "Free courses for IMG doctors",
+                "path": "help-center/services/free-courses-for-imgs"
+              }
             ]
           },
           {
@@ -95,15 +163,42 @@
             "icon": "globe",
             "expandable": true,
             "pages": [
-              { "title": "Working as a specialist doctor in Australia", "path": "help-center/international-medical-graduates/work-as-specialist-doctor" },
-              { "title": "The Standard Pathway", "path": "help-center/international-medical-graduates/standard-pathway" },
-              { "title": "The Competent Authority Pathway", "path": "help-center/international-medical-graduates/competent-authority-pathway" },
-              { "title": "Will another exam exempt me from the AMC exams?", "path": "help-center/international-medical-graduates/amc-exam-exemptions" },
-              { "title": "Immigration rules for doctors", "path": "help-center/international-medical-graduates/immigration-rules" },
-              { "title": "Visa types relevant to doctors", "path": "help-center/international-medical-graduates/visa-types" },
-              { "title": "Can I do an internship in Australia as an IMG?", "path": "help-center/international-medical-graduates/img-internship" },
-              { "title": "Can I work as a locum as an IMG?", "path": "help-center/international-medical-graduates/locum-as-img" },
-              { "title": "Can overseas doctors work as a psychiatrist?", "path": "help-center/international-medical-graduates/overseas-psychiatrists" }
+              {
+                "title": "Working as a specialist doctor in Australia",
+                "path": "help-center/international-medical-graduates/work-as-specialist-doctor"
+              },
+              {
+                "title": "The Standard Pathway",
+                "path": "help-center/international-medical-graduates/standard-pathway"
+              },
+              {
+                "title": "The Competent Authority Pathway",
+                "path": "help-center/international-medical-graduates/competent-authority-pathway"
+              },
+              {
+                "title": "Will another exam exempt me from the AMC exams?",
+                "path": "help-center/international-medical-graduates/amc-exam-exemptions"
+              },
+              {
+                "title": "Immigration rules for doctors",
+                "path": "help-center/international-medical-graduates/immigration-rules"
+              },
+              {
+                "title": "Visa types relevant to doctors",
+                "path": "help-center/international-medical-graduates/visa-types"
+              },
+              {
+                "title": "Can I do an internship in Australia as an IMG?",
+                "path": "help-center/international-medical-graduates/img-internship"
+              },
+              {
+                "title": "Can I work as a locum as an IMG?",
+                "path": "help-center/international-medical-graduates/locum-as-img"
+              },
+              {
+                "title": "Can overseas doctors work as a psychiatrist?",
+                "path": "help-center/international-medical-graduates/overseas-psychiatrists"
+              }
             ]
           },
           {
@@ -111,12 +206,30 @@
             "icon": "trending-up",
             "expandable": true,
             "pages": [
-              { "title": "Becoming a psychiatrist in Australia", "path": "help-center/career-pathways/become-a-psychiatrist-australia" },
-              { "title": "Becoming a nurse in Australia", "path": "help-center/career-pathways/become-a-nurse-australia" },
-              { "title": "How much do psychiatrists earn?", "path": "help-center/career-pathways/psychiatrist-income-australia" },
-              { "title": "AHPRA registration timeline", "path": "help-center/career-pathways/ahpra-registration" },
-              { "title": "Australian specialist medical colleges", "path": "help-center/career-pathways/specialist-medical-colleges" },
-              { "title": "Public vs private practice", "path": "help-center/career-pathways/public-vs-private-practice" }
+              {
+                "title": "Becoming a psychiatrist in Australia",
+                "path": "help-center/career-pathways/become-a-psychiatrist-australia"
+              },
+              {
+                "title": "Becoming a nurse in Australia",
+                "path": "help-center/career-pathways/become-a-nurse-australia"
+              },
+              {
+                "title": "How much do psychiatrists earn?",
+                "path": "help-center/career-pathways/psychiatrist-income-australia"
+              },
+              {
+                "title": "AHPRA registration timeline",
+                "path": "help-center/career-pathways/ahpra-registration"
+              },
+              {
+                "title": "Australian specialist medical colleges",
+                "path": "help-center/career-pathways/specialist-medical-colleges"
+              },
+              {
+                "title": "Public vs private practice",
+                "path": "help-center/career-pathways/public-vs-private-practice"
+              }
             ]
           },
           {
@@ -124,12 +237,30 @@
             "icon": "users",
             "expandable": true,
             "pages": [
-              { "title": "Medical interview formats by employer", "path": "help-center/recruitment-and-practice/interview-formats" },
-              { "title": "Where to find interview questions", "path": "help-center/recruitment-and-practice/interview-question-practice" },
-              { "title": "How recruitment agencies make money", "path": "help-center/recruitment-and-practice/recruitment-agencies-how-they-make-money" },
-              { "title": "Should I sign with one agent or several?", "path": "help-center/recruitment-and-practice/single-vs-multiple-agents" },
-              { "title": "CPD when working as a locum", "path": "help-center/recruitment-and-practice/cpd-as-a-locum" },
-              { "title": "38-hour week and recency of practice", "path": "help-center/recruitment-and-practice/recency-of-practice-38-hours" }
+              {
+                "title": "Medical interview formats by employer",
+                "path": "help-center/recruitment-and-practice/interview-formats"
+              },
+              {
+                "title": "Where to find interview questions",
+                "path": "help-center/recruitment-and-practice/interview-question-practice"
+              },
+              {
+                "title": "How recruitment agencies make money",
+                "path": "help-center/recruitment-and-practice/recruitment-agencies-how-they-make-money"
+              },
+              {
+                "title": "Should I sign with one agent or several?",
+                "path": "help-center/recruitment-and-practice/single-vs-multiple-agents"
+              },
+              {
+                "title": "CPD when working as a locum",
+                "path": "help-center/recruitment-and-practice/cpd-as-a-locum"
+              },
+              {
+                "title": "38-hour week and recency of practice",
+                "path": "help-center/recruitment-and-practice/recency-of-practice-38-hours"
+              }
             ]
           },
           {
@@ -137,13 +268,34 @@
             "icon": "credit-card",
             "expandable": true,
             "pages": [
-              { "title": "Contact and support", "path": "help-center/account-and-billing/contact-support" },
-              { "title": "Refund and cancellation policy", "path": "help-center/account-and-billing/refund-and-cancellation" },
-              { "title": "Privacy and how we handle your data", "path": "help-center/account-and-billing/privacy-and-data" },
-              { "title": "Cancel or change your subscription", "path": "help-center/account-and-billing/cancel-or-change-subscription" },
-              { "title": "Update your credit-card details", "path": "help-center/account-and-billing/update-credit-card" },
-              { "title": "Session recordings", "path": "help-center/account-and-billing/session-recordings" },
-              { "title": "How to reschedule or rebook", "path": "help-center/account-and-billing/reschedule-or-rebook" }
+              {
+                "title": "Contact and support",
+                "path": "help-center/account-and-billing/contact-support"
+              },
+              {
+                "title": "Refund and cancellation policy",
+                "path": "help-center/account-and-billing/refund-and-cancellation"
+              },
+              {
+                "title": "Privacy and how we handle your data",
+                "path": "help-center/account-and-billing/privacy-and-data"
+              },
+              {
+                "title": "Cancel or change your subscription",
+                "path": "help-center/account-and-billing/cancel-or-change-subscription"
+              },
+              {
+                "title": "Update your credit-card details",
+                "path": "help-center/account-and-billing/update-credit-card"
+              },
+              {
+                "title": "Session recordings",
+                "path": "help-center/account-and-billing/session-recordings"
+              },
+              {
+                "title": "How to reschedule or rebook",
+                "path": "help-center/account-and-billing/reschedule-or-rebook"
+              }
             ]
           },
           {
@@ -151,7 +303,10 @@
             "icon": "help-circle",
             "expandable": true,
             "pages": [
-              { "title": "How do I access my customer dashboard?", "path": "help-center/faq/how-to-access-dashboard" }
+              {
+                "title": "How do I access my customer dashboard?",
+                "path": "help-center/faq/how-to-access-dashboard"
+              }
             ]
           },
           {
@@ -159,7 +314,10 @@
             "icon": "book-open",
             "expandable": true,
             "pages": [
-              { "title": "How to submit your CV", "path": "help-center/guides/submit-your-cv" }
+              {
+                "title": "How to submit your CV",
+                "path": "help-center/guides/submit-your-cv"
+              }
             ]
           },
           {
@@ -167,7 +325,10 @@
             "icon": "alert-circle",
             "expandable": true,
             "pages": [
-              { "title": "I can't reset my password", "path": "help-center/troubleshooting/cannot-reset-password" }
+              {
+                "title": "I can't reset my password",
+                "path": "help-center/troubleshooting/cannot-reset-password"
+              }
             ]
           }
         ]
@@ -176,7 +337,11 @@
         "tab": "Changelog",
         "icon": "clock",
         "pages": [
-          { "title": "Release history", "path": "changelog", "icon": "history" }
+          {
+            "title": "Release history",
+            "path": "changelog",
+            "icon": "history"
+          }
         ]
       }
     ]
@@ -187,7 +352,7 @@
   "logo-light": "https://blob-cdn.documentation.ai/org-d0c61cd1-71f1-4cb3-b392-57baf465f957/doc-574e6de8-a0d9-4975-83d5-ab9abca29778/1778306059742-ylwuhc9g7r-AdvanceMed-ICON-Large-copy.png?fm=auto&auto=compress%2Cformat",
   "favicon": "https://blob-cdn.documentation.ai/org-d0c61cd1-71f1-4cb3-b392-57baf465f957/doc-574e6de8-a0d9-4975-83d5-ab9abca29778/1778306059742-ylwuhc9g7r-AdvanceMed-ICON-Large-copy.png?fm=auto&auto=compress%2Cformat",
   "template": "atlas",
-  "initialRoute": "help-centre",
+  "initialRoute": "introduction",
   "integrations": {
     "plausible": {
       "domain": "knowledge.advancemed.com.au"
