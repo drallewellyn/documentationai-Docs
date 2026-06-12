@@ -13,6 +13,7 @@ competency-based medical education (CBME).
 | [`osce-critiques.md`](./osce-critiques.md) | Focused deep-dive on the **OSCE under critique — classic (Hodges) and recent (2015–2026)**: authenticity, examiner cognition, equity/differential attainment, COVID reappraisal, standard-setting, and the contested RANZCP removal. |
 | [`foundations-identity-supervision.md`](./foundations-identity-supervision.md) | The distinctively **psychiatric core**: professional identity formation, reflective practice, supervision and Balint, feedback/coaching, faculty development, and program evaluation. |
 | [`annotated-bibliography.md`](./annotated-bibliography.md) | The full, **verified** reference list (Sections A–G) — every citation checked against PubMed / publisher records (authors, title, journal, year, pages, DOI) — with a one-paragraph annotation on why each matters for the redesign. |
+| [`internal-reports/`](./internal-reports/) | **RANZCP internal & commissioned reports** (PDFs) with an annotated reference list ([`internal-reports/README.md`](./internal-reports/README.md)) — the Schuwirth AAP review (2022), ACER Examination Review (2020), ACER CEQ/MEQ review, Rural Psychiatry Roadmap, and the Burden of Assessment literature. |
 
 ## How to use this pack
 

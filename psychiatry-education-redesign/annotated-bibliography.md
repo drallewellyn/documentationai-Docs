@@ -24,8 +24,19 @@ alignment target of the RANZCP redesign. Fits psychiatry's reliance on the intri
 - ten Cate O, Chen HC, Hoff RG, Peters H, Bok H, van der Schaaf M. Curriculum development for
   the workplace using Entrustable Professional Activities (EPAs): **AMEE Guide No. 99.**
   *Med Teach.* 2015;37(11):983–1002. doi:10.3109/0142159X.2015.1060308 — *It is Guide No. 99
-  only (not "99/100").*
+  only (not "99/100"). The "how-to-implement EPAs" guide.*
+- ten Cate O, Taylor DR. The recommended description of an entrustable professional activity:
+  **AMEE Guide No. 140.** *Med Teach.* 2021;43(10):1106–1114. doi:10.1080/0142159X.2020.1838465
+  — The current standard for *how to write/describe an EPA*; a practical template for drafting
+  RANZCP EPAs.
 — EPAs translate competencies into entrustable units of work; central to the RANZCP CBFP.
+
+**Entrustment-based workplace assessment tool**
+Gofton WT, Dudek NL, Wood TJ, Balaa F, Hamstra SJ. The Ottawa Surgical Competency Operating Room
+Evaluation (O-SCORE): a tool to assess surgical competence. *Acad Med.* 2012;87(10):1401–1407.
+doi:10.1097/ACM.0b013e3182677805
+— The original entrustment/supervision rating scale ("how much guidance did the trainee need?")
+that underpins entrustment-based WBA and the OCA/IOCA logic.
 
 **CBME: theory to practice**
 Frank JR, Snell LS, ten Cate O, Holmboe ES, Carraccio C, Durning SJ, et al. Competency-based
@@ -108,6 +119,24 @@ doi:10.1097/ACM.0000000000001865. PMID 28857790
   2023;98(11):1261–1267. doi:10.1097/ACM.0000000000005305. PMID 37343164
 — The contemporary caution: programmatic assessment can be experienced as surveillance and can
 undermine the very benefits of CBME. A first-order design constraint for the CCPR.
+
+**Burden of assessment (directly relevant to AMC Standard 5, Condition 23)**
+- Pearce J. When I say … assessment burden. *Med Educ.* 2025. doi:10.1111/medu.15708 *(vol/pages
+  to confirm)* — The recent conceptual piece (Jacob Pearce, ACER): burden is not simply to be
+  *minimised*; high-quality assessment can feel burdensome yet carry real utility — optimise
+  *worthwhile* burden. The strongest single framing for the AMC Condition 23 response.
+- Ott MC, Pack R, Cristancho S, Chin M, Van Koughnett JA, Ott M. "The most crushing thing":
+  understanding resident assessment burden in a competency-based curriculum. *J Grad Med Educ.*
+  2022;14(5):583–592. — Conceptualises burden through **Self-Determination Theory** (threats to
+  autonomy/relatedness/competence); the framework RANZCP adopted to *measure* burden.
+- Cheung K, Rogoza C, Chung AD, Kwan BY. Analyzing the administrative burden of competency-based
+  medical education. *Can Assoc Radiol J.* 2021;73(2):299–304. — Empirical: mean EPA form ≈ 3 min
+  6 sec (but excludes the surrounding observation/feedback time).
+- Lockyer J, Carraccio C, Chan M-K, et al. Core principles of assessment in CBME. *Med Teach.*
+  2017;39(6):609–616. — The CBME assessment consensus: "the instrument is the assessor"; assessor
+  variance is partly a legitimate lens, not just error.
+- *(Plus a Canadian trainee-perspective set — Branfield Day 2022; Mann 2020; Ahn 2023; Martin
+  2020; LaDonna 2017; Bindal 2011 — full list in [internal-reports](./internal-reports/README.md#5a-the-10-burden-of-assessment-papers-stored-in-boa-papers).)*
 
 ---
 
