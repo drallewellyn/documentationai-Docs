@@ -14,6 +14,16 @@ Royal College of Physicians and Surgeons of Canada; 2015. ISBN 978-1-926588-28-5
 — The role-based outcomes vocabulary (Medical Expert + six intrinsic roles) and the explicit
 alignment target of the RANZCP redesign. Fits psychiatry's reliance on the intrinsic roles.
 
+**CanMEDS 2025 revision — current status**
+Royal College of Physicians and Surgeons of Canada. *The CanMEDS Project / Response to CanMEDS
+Framework feedback dialogue.* RCPSC; accessed June 2026.
+https://www.royalcollege.ca/en/standards-and-accreditation/canmeds/development-and-updates.html
+— CanMEDS is under revision (draft framework expected 2026). The **seven existing Roles are being
+retained**; emerging topics (physician wellness, planetary and Indigenous health, anti-racism,
+AI/big data, EDI) are being **integrated as competencies woven through the existing Roles, not
+added as a new Role.** *Implication for the redesign: align to the seven Roles; do not anticipate
+an eighth. (Confirm exact wording/date against the live RCPSC page before formal use.)*
+
 **ten Cate on Entrustable Professional Activities (EPAs)**
 - ten Cate O. Entrustability of professional activities and competency-based training.
   *Med Educ.* 2005;39(12):1176–1177. doi:10.1111/j.1365-2929.2005.02341.x
@@ -281,6 +291,19 @@ Cambridge University Press; 1991. ISBN 978-0521423748
 > Sourced from RANZCP web/PDF text surfaced via search (ranzcp.org blocks automated fetching)
 > plus peer-reviewed and reputable secondary sources. Program/timeline details should be
 > re-confirmed against the live RANZCP pages before formal use; flagged items noted.
+
+**Accreditation standards & reports (regulatory).**
+- Australian Medical Council. *Standards for Assessment and Accreditation of Specialist Medical
+  Programs by the Australian Medical Council 2023.* Canberra: AMC; 2023 (approved 10 March 2023).
+  PDF: amc.org.au/wp-content/uploads/2023/08/Standards-for-Assessment-and-Accreditation-of-Specialist-Medical-Programs-by-the-Australian-Medical-Council-2023-secured.pdf
+  — The external standards the College is accredited against; the **Standard 5** conditions
+  (assessment burden — Condition 23; cultural safety; curriculum structure) are the formal drivers
+  of this redesign.
+- RANZCP. *[Most recent accreditation / progress report to the AMC]* — **(exact title and year to
+  be confirmed/supplied).** The College's current self-assessment against the AMC standards and its
+  response to the accreditation conditions. *(Earlier program research referenced a RANZCP
+  Reaccreditation Report to the AMC (2022) and a 2025 Training & Assessment mid-year report; please
+  confirm which document is "our most recent report" or supply it for an accurate citation.)*
 
 **Program structure.** Competency-Based Fellowship Program (CBFP / "2012 Fellowship Program"):
 60 months FTE over three stages — **Basic (Stage 1, 12 mo)**, **Proficient (Stage 2, 24 mo)**,
