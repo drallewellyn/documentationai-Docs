@@ -187,10 +187,27 @@ collective. *Med Teach.* 2013;35(7):564–568. doi:10.3109/0142159X.2013.789134.
 — Outcomes, learning activities and assessment must align; the operational backbone of design.
 
 **Curriculum design method**
-Thomas PA, Kern DE, Hughes MT, **Tackett SA,** Chen BY, eds. *Curriculum Development for
-Medical Education: A Six-Step Approach.* **4th ed.** Baltimore: Johns Hopkins University Press;
-**2022.** ISBN 9781421444093. *(3rd ed., 2016, omits Tackett.)*
-— The standard operational playbook for building a curriculum.
+- Thomas PA, Kern DE, Hughes MT, **Tackett SA,** Chen BY, eds. *Curriculum Development for
+  Medical Education: A Six-Step Approach.* **4th ed.** Baltimore: Johns Hopkins University Press;
+  **2022.** ISBN 9781421444093. *(3rd ed., 2016, omits Tackett.)* — The standard operational
+  playbook for building a curriculum.
+- Harden RM, Sowden S, Dunn WR. Educational strategies in curriculum development: the SPICES
+  model. *Med Educ.* 1984;18(4):284–297. doi:10.1111/j.1365-2923.1984.tb01024.x
+  — A six-dimension spectrum (Student-centred, Problem-based, Integrated, Community-based,
+  Elective, Systematic) for positioning the *strategic* shape of a curriculum.
+
+**Cognitive science of learning — accessible synthesis**
+Brown PC, Roediger HL, McDaniel MA. *Make It Stick: The Science of Successful Learning.*
+Cambridge, MA: Belknap Press of Harvard University Press; 2014. ISBN 978-0674729018.
+— The evidence-based trade book translating retrieval practice, spacing, interleaving and
+"desirable difficulties" for educators and trainees; pairs with Dunlosky et al. (2013).
+
+**Teacher/supervisor roles (faculty development)**
+Harden RM, Crosby J. The good teacher is more than a lecturer — the twelve roles of the teacher:
+AMEE Guide No. 20. *Med Teach.* 2000;22(4):334–347. doi:10.1080/014215900409429
+— Maps the teacher's job into twelve roles across six areas (information provider, role model,
+facilitator/mentor, assessor, curriculum planner, resource creator); a framework for defining and
+developing supervisor/teacher capabilities.
 
 **Mastery learning & deliberate practice**
 - McGaghie WC, Issenberg SB, Cohen ER, Barsuk JH, Wayne DB. Does simulation-based medical
