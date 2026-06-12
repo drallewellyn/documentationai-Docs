@@ -580,15 +580,24 @@ cultural safety — notably AMC Standard 5, Condition 29). Realigns graduate out
   eases the training-to-practice transition and supports wellbeing/retention. *(Targets the
   student→FY1 transition; psychiatry items below are more on-point for the consultant transition.)*
 
-**Psychiatry-specific**
+**Psychiatry-specific** *(the consultant transition / new-consultant needs — UK CPD literature)*
+- Wilkie G, Raffaelli D. In at the deep end: making the transition from SpR to consultant.
+  *Advances in Psychiatric Treatment.* 2005;11(2):107–114.
+  cambridge.org/core/journals/advances-in-psychiatric-treatment/article/in-at-the-deep-end-making-the-transition-from-spr-to-consultant/95F908BFC72747CF329A699388CE2DE8
+  — Practical account of the SpR→consultant transition and the value of a peer-support/transition
+  group for new consultants.
+- Beezhold J. The needs of new consultants. *Advances in Psychiatric Treatment.* 2008;14(5):321–325.
+  cambridge.org/core/journals/advances-in-psychiatric-treatment/article/needs-of-new-consultants/90B8EBCEB0533C5FCBD75D726457F0EA
+  — Argues specialist training under-prepares trainees for consultant life; identifies new-consultant
+  needs and the personal/organisational supports that meet them.
+- Dean A. Mentors for newly appointed consultants. *Advances in Psychiatric Treatment.*
+  2003;9(3):164–165.
+  cambridge.org/core/journals/advances-in-psychiatric-treatment/article/mentors-for-newly-appointed-consultants/16354CDA4222E8970B811BE6F1595D97
+  — The case for formal mentoring of newly appointed consultant psychiatrists.
 - Psychiatrists' experiences of the transition from trainee to consultant: a qualitative study.
-  *BJPsych Open.* 2023. doi:10.1192/bjo.2023.132 — Themes of "facing the real world", "learning from
-  others", "being myself", unified by belonging and professional identity. *(Confirm whether to
-  cite the full article (PMC10345303) or the RCPsych Congress abstract version, and exact
-  volume/pages.)*
-- *Advances in Psychiatric Treatment* practical-guidance series on the SpR→consultant transition,
-  the needs of new consultants, and mentoring newly-appointed consultants — real and citable, but
-  **authors/year/pages to confirm** (publisher pages blocked automated checking).
+  *BJPsych Open.* 2023;9(Suppl 1):S23–S24. doi:10.1192/bjo.2023.132 — Trainee→consultant transition
+  as identity-and-belonging work. *Note: this is an **RCPsych Congress abstract** (reviewed by the
+  RCPsych Academic Faculty, not full peer review) — cite as a conference abstract, not a paper.*
 - *(Cross-ref: Dreyfus §D, Ericsson §D, Cruess §G — competence at qualification is not
   proficiency/expertise/identity-maturity, which develop over the post-Fellowship years.)*
 
