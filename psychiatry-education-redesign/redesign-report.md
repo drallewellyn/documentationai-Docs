@@ -220,6 +220,35 @@ in curriculum content, not just assessment.
 | AMC. *Standards for Assessment and Accreditation of Specialist Medical Programs.* 2023 — incl. cultural safety; Standard 5 *(cross-ref §1)* | [amc.org.au (PDF)](https://www.amc.org.au/wp-content/uploads/2023/08/Standards-for-Assessment-and-Accreditation-of-Specialist-Medical-Programs-by-the-Australian-Medical-Council-2023-secured.pdf) | The accreditation standards' cultural-safety requirements — a key driver of the equity work in this section | Regulatory/AMC |
 | RANZCP cultural safety / Aboriginal, Torres Strait Islander & Māori mental health | [ranzcp.org](https://www.ranzcp.org/clinical-guidelines-publications/cultural-safety) | The College's cultural-safety commitments and the new Aboriginal, Torres Strait Islander and Māori mental-health role | RANZCP internal |
 
+### 8a. First Nations mental health — models of wellbeing, traditional practice & cultural safety
+
+The AMC condition asks the *curriculum* — not just the assessment — to embed cultural safety. That
+means teaching Indigenous **models of wellbeing**, which are holistic and collective rather than
+the individual biomedical construct, and engaging respectfully with **traditional healing**. The
+canonical Aboriginal and Torres Strait Islander frame is **Social and Emotional Wellbeing (SEWB)**;
+the canonical Māori frames are **Te Whare Tapa Whā** and **cultural safety / Kawa Whakaruruhau**
+(which is itself the origin of the term the AMC uses). *(Author names — including the Indigenous
+scholars — are verified.)*
+
+| Reference | Link | What it tells us | Category |
+|---|---|---|---|
+| Dudgeon, Milroy & Walker (eds). *Working Together: Aboriginal and Torres Strait Islander Mental Health and Wellbeing Principles and Practice.* 2nd ed; 2014 | open access (Telethon Kids) | The definitive edited reference text on Aboriginal and Torres Strait Islander mental health and wellbeing | Theory |
+| Gee, Dudgeon, Schultz, Hart & Kelly. Aboriginal and Torres Strait Islander social and emotional wellbeing. In *Working Together* (Ch. 4, pp. 55–68); 2014 | open access | The **SEWB model** — wellbeing as connection to self, body, mind/emotions, family & kinship, community, culture, **Country** and spirituality; the core conceptual frame for Indigenous mental health | Theory |
+| Swan & Raphael. *Ways Forward: National Aboriginal and Torres Strait Islander Mental Health Policy National Consultancy Report.* AGPS; 1995 | national report | The landmark report — first systematic articulation of holistic need and self-determination in service design | Evidence |
+| Commonwealth of Australia. *National Strategic Framework for Aboriginal and Torres Strait Islander Peoples' Mental Health and SEWB 2017–2023*; 2017 | [niaa.gov.au](https://www.niaa.gov.au) | The national policy framework (co-chairs Dudgeon & Calma) the curriculum should align to | Theory |
+| Dudgeon & Walker. Decolonising Australian psychology: discourses, strategies, and practice. *J Soc Polit Psychol.* 2015;3(1):276–297 | [doi](https://doi.org/10.5964/jspp.v3i1.126) | The decolonising-practice argument for Australian mental health (open access) | Theory |
+| NPY Women's Council. *Traditional Healers of Central Australia: Ngangkari.* Magabala Books; 2013 | ISBN 9781921248825 | Primary-source, ngangkari-authored account of Anangu (Western Desert) traditional healing | Theory |
+| Janca & Bullen. The Aboriginal concept of time and its mental health implications. *Australas Psychiatry.* 2003;11(Suppl 1):S40–S44 | [doi](https://doi.org/10.1046/j.1038-5282.2003.02009.x) | How a circular (vs linear) concept of time bears on culturally appropriate psychiatric assessment | Theory |
+| Vicary & Westerman. 'That's just the way he is': implications of Aboriginal mental health beliefs. *Aust e-J Adv Ment Health.* 2004;3(3):103–112 | [doi](https://doi.org/10.5172/jamh.3.3.103) | Qualitative study of Aboriginal conceptualisations of distress and barriers to help-seeking | Evidence |
+| Durie. *Whaiora: Māori Health Development.* OUP; 1994 (2nd ed. 1998) | ISBN 978-0195583175 | **Te Whare Tapa Whā** — the four-sided house: taha tinana (physical), taha hinengaro (mental/emotional), taha wairua (spiritual), taha whānau (family/social); the cornerstone Māori health model | Theory |
+| Durie. Te Pae Mahutonga: a model for Māori health promotion. *Health Promotion Forum NZ Newsletter.* 1999;49:2–5 | report | A Māori health-promotion model framed on the Southern Cross constellation | Theory |
+| Ramsden. *Cultural Safety and Nursing Education in Aotearoa and Te Waipounamu.* PhD thesis, VUW; 2002 | [VUW repository](https://www.wgtn.ac.nz) | Irihapeti Ramsden's foundational articulation of **cultural safety / Kawa Whakaruruhau** — the origin of the concept the AMC condition derives from | Theory |
+| Papps & Ramsden. Cultural safety in nursing: the New Zealand experience. *Int J Qual Health Care.* 1996;8(5):491–497 | [doi](https://doi.org/10.1093/intqhc/8.5.491) | The peer-reviewed articulation of cultural safety | Theory |
+| Government Inquiry into Mental Health and Addiction. *He Ara Oranga.* NZ Government; 2018 | [mentalhealth.inquiry.govt.nz](https://mentalhealth.inquiry.govt.nz) | The landmark NZ inquiry (40 recommendations) centring equity and Māori mental health | Evidence |
+| Rangihuna, Kopua & Tipene-Leach. Mahi a Atua: a pathway forward for Māori mental health? *NZ Med J.* 2018;131(1471):79–83 | [pubmed](https://pubmed.ncbi.nlm.nih.gov/29518802/) | A narratives-based (pūrākau) Māori approach to assessment and therapy | Theory |
+| Ahuriri-Driscoll et al. *The Future of Rongoā Māori: Wellbeing and Sustainability.* ESR / Ministry of Health; 2008 | report | Traditional Māori healing (rongoā) — a Ministry-commissioned report on wellbeing and sustainability | Theory |
+| RANZCP. *Position Statement 105: Cultural Safety.* 2016 (rev. 2023) | [ranzcp.org](https://www.ranzcp.org/clinical-guidelines-publications/cultural-safety) | The College's position affirming culturally safe care as a right for Aboriginal and Torres Strait Islander peoples and Māori | RANZCP internal |
+
 ---
 
 ## 9. Program Evaluation

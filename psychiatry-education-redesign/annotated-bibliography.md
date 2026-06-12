@@ -603,6 +603,71 @@ cultural safety — notably AMC Standard 5, Condition 29). Realigns graduate out
 
 ---
 
+## I. First Nations mental health — models of wellbeing, traditional practice & cultural safety
+
+> The *content* side of the AMC cultural-safety condition: Indigenous models of wellbeing (holistic
+> and collective, not the individual biomedical construct) and traditional healing. Author names —
+> including the Indigenous scholars — are verified.
+
+**Aboriginal & Torres Strait Islander**
+- Dudgeon P, Milroy H, Walker R, eds. *Working Together: Aboriginal and Torres Strait Islander
+  Mental Health and Wellbeing Principles and Practice.* 2nd ed. Canberra: Commonwealth of Australia;
+  2014. (1st ed. 2010, eds. Purdie N, Dudgeon P, Walker R.) Open access (Telethon Kids Institute).
+  — The definitive edited reference text.
+- Gee G, Dudgeon P, Schultz C, Hart A, Kelly K. Aboriginal and Torres Strait Islander social and
+  emotional wellbeing. In: Dudgeon P, Milroy H, Walker R, eds. *Working Together.* 2nd ed. Ch. 4,
+  pp. 55–68; 2014. — The **Social and Emotional Wellbeing (SEWB)** model: connection to self, body,
+  mind/emotions, family & kinship, community, culture, Country and spirituality. *The core
+  conceptual reference for this strand.*
+- Swan P, Raphael B. *Ways Forward: National Aboriginal and Torres Strait Islander Mental Health
+  Policy National Consultancy Report.* Canberra: AGPS; 1995. — Landmark report; first systematic
+  articulation of holistic need and self-determination.
+- Commonwealth of Australia. *National Strategic Framework for Aboriginal and Torres Strait
+  Islander Peoples' Mental Health and Social and Emotional Wellbeing 2017–2023.* 2017 (now hosted by
+  NIAA; co-chairs Prof Pat Dudgeon & Prof Tom Calma AO).
+- Dudgeon P, Walker R. Decolonising Australian psychology: discourses, strategies, and practice.
+  *J Soc Polit Psychol.* 2015;3(1):276–297. doi:10.5964/jspp.v3i1.126 (open access).
+- Ngaanyatjarra Pitjantjatjara Yankunytjatjara (NPY) Women's Council. *Traditional Healers of
+  Central Australia: Ngangkari.* Broome: Magabala Books; 2013. ISBN 9781921248825. — Primary-source,
+  ngangkari-authored account of Anangu traditional healing.
+- Janca A, Bullen C. The Aboriginal concept of time and its mental health implications. *Australas
+  Psychiatry.* 2003;11(Suppl 1):S40–S44. doi:10.1046/j.1038-5282.2003.02009.x
+- Vicary D, Westerman T. 'That's just the way he is': some implications of Aboriginal mental health
+  beliefs. *Aust e-J Adv Ment Health.* 2004;3(3):103–112. doi:10.5172/jamh.3.3.103 *(see also
+  Westerman T. Engaging Australian Aboriginal youth in mental health services. Aust Psychol.
+  2010;45(3):212–222.)*
+
+**Māori**
+- Durie M. *Whaiora: Māori Health Development.* Auckland: Oxford University Press; 1994 (2nd ed.
+  1998). — **Te Whare Tapa Whā**, the four-sided house: taha tinana (physical), taha hinengaro
+  (mental/emotional), taha wairua (spiritual), taha whānau (family/social).
+- Durie M. Te Pae Mahutonga: a model for Māori health promotion. *Health Promotion Forum of New
+  Zealand Newsletter.* 1999;49:2–5.
+- Ramsden IM. *Cultural Safety and Nursing Education in Aotearoa and Te Waipounamu.* PhD thesis,
+  Victoria University of Wellington; 2002. — The foundational articulation of **cultural safety /
+  Kawa Whakaruruhau** (the origin of the AMC's term).
+- Papps E, Ramsden I. Cultural safety in nursing: the New Zealand experience. *Int J Qual Health
+  Care.* 1996;8(5):491–497. doi:10.1093/intqhc/8.5.491
+- Government Inquiry into Mental Health and Addiction. *He Ara Oranga: Report of the Government
+  Inquiry into Mental Health and Addiction.* Wellington: NZ Government; 2018. ISBN 978-0-9941245-3-1.
+  — Landmark inquiry (40 recommendations) centring equity and Māori mental health.
+- Rangihuna D, Kopua M, Tipene-Leach D. Mahi a Atua: a pathway forward for Māori mental health?
+  *NZ Med J.* 2018;131(1471):79–83. PMID 29518802. — Narratives-based (pūrākau) Māori approach to
+  assessment/therapy. *(Companion: Rangihuna D, Kopua M, Tipene-Leach D. Pounamu: Te Mahi a Atua.
+  J Prim Health Care. 2018;10(1):16–19.)*
+- Ahuriri-Driscoll A, Baker V, Hepi M, Hudson M, Mika C, Tiakiwai S. *The Future of Rongoā Māori:
+  Wellbeing and Sustainability.* ESR / Ministry of Health (Te Kete Hauora); 2008. — Traditional
+  Māori healing. *(Peer-reviewed companion: Mark G, Boulton A, Kerridge D. Rongoā Māori is not a
+  complementary and alternative medicine: Rongoā Māori is a way of life. 2019.)*
+
+**Cross / professional**
+- RANZCP. *Position Statement 105: Cultural Safety.* Melbourne: RANZCP; issued 2016, revised April
+  2023. *(2016 original-issue year confirmed via secondary sources; PDF blocked automated
+  checking.)* Related: RANZCP PS on Aboriginal and Torres Strait Islander mental health workers
+  (2016); Ethical Guideline 11.
+
+---
+
 *Verification method: parallel research agents across seven citation clusters, multi-source
 confirmation against PubMed and publisher records, with corrections and residual uncertainties
 flagged inline. Items marked "(confirm pages/authors)" have verified title/journal/year/DOI but
