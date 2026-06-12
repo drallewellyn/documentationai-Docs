@@ -299,11 +299,11 @@ Cambridge University Press; 1991. ISBN 978-0521423748
   — The external standards the College is accredited against; the **Standard 5** conditions
   (assessment burden — Condition 23; cultural safety; curriculum structure) are the formal drivers
   of this redesign.
-- RANZCP. *[Most recent accreditation / progress report to the AMC]* — **(exact title and year to
-  be confirmed/supplied).** The College's current self-assessment against the AMC standards and its
-  response to the accreditation conditions. *(Earlier program research referenced a RANZCP
-  Reaccreditation Report to the AMC (2022) and a 2025 Training & Assessment mid-year report; please
-  confirm which document is "our most recent report" or supply it for an accurate citation.)*
+- RANZCP. *Reaccreditation Report to the Australian Medical Council.* RANZCP. — The College's
+  original, comprehensive self-assessment against the AMC standards (the substantive reaccreditation
+  submission, **not** the subsequent annual progress reports/updates), from which the accreditation
+  conditions driving this redesign arose. *(Confirm exact title/year; supply the PDF to store and
+  cite precisely.)*
 
 **Program structure.** Competency-Based Fellowship Program (CBFP / "2012 Fellowship Program"):
 60 months FTE over three stages — **Basic (Stage 1, 12 mo)**, **Proficient (Stage 2, 24 mo)**,
