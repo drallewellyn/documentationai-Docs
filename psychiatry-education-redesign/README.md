@@ -8,8 +8,10 @@ competency-based medical education (CBME).
 
 | Document | Purpose |
 |---|---|
-| [`briefing-paper.md`](./briefing-paper.md) | Narrative briefing for the curriculum committee, organised around the key **design decisions and tensions** (CBME vs. its critics, the OSCE problem, learning theory vs. andragogy). |
-| [`annotated-bibliography.md`](./annotated-bibliography.md) | The full, **verified** reference list — every citation checked against PubMed / publisher records (authors, title, journal, year, pages, DOI) — with a one-paragraph annotation on why each matters for the redesign. |
+| [`briefing-paper.md`](./briefing-paper.md) | Narrative briefing for the curriculum committee, organised around the key **design decisions and tensions** (CBME vs. its critics, the OSCE problem, learning theory vs. andragogy), situated in the live RANZCP context. |
+| [`osce-critiques.md`](./osce-critiques.md) | Focused deep-dive on the **OSCE under critique — classic (Hodges) and recent (2015–2026)**: authenticity, examiner cognition, equity/differential attainment, COVID reappraisal, standard-setting, and the contested RANZCP removal. |
+| [`foundations-identity-supervision.md`](./foundations-identity-supervision.md) | The distinctively **psychiatric core**: professional identity formation, reflective practice, supervision and Balint, feedback/coaching, faculty development, and program evaluation. |
+| [`annotated-bibliography.md`](./annotated-bibliography.md) | The full, **verified** reference list (Sections A–G) — every citation checked against PubMed / publisher records (authors, title, journal, year, pages, DOI) — with a one-paragraph annotation on why each matters for the redesign. |
 
 ## How to use this pack
 

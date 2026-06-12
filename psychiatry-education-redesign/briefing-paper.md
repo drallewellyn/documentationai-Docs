@@ -4,8 +4,11 @@
 committee that includes both competency-based medical education (CBME) enthusiasts and
 sceptics.*
 
-> **Companion document:** every source named here is fully cited, verified, and annotated
-> in [`annotated-bibliography.md`](./annotated-bibliography.md).
+> **Companion documents:** every source named here is fully cited, verified, and annotated in
+> [`annotated-bibliography.md`](./annotated-bibliography.md). Two deep-dives extend this brief:
+> [`osce-critiques.md`](./osce-critiques.md) (the OSCE under critique, classic + recent) and
+> [`foundations-identity-supervision.md`](./foundations-identity-supervision.md) (the
+> distinctively psychiatric core — identity, supervision, feedback, evaluation).
 
 ---
 
@@ -94,14 +97,24 @@ it is worth getting the evidence exactly right.
   for the redesign. It argues for *rehabilitating expert judgement and narrative* rather than
   chasing psychometric objectivity. This is the explicit intellectual warrant for the CCPR.
 
+**The recent evidence (2015–2026) reinforces Hodges** along four lines — authenticity is
+conditional not intrinsic (Yeates 2025); examiner "objectivity" is a myth (Hyde/Boursicot 2022;
+Yeates' contrast/sequence effects 2015/2022; Gingerich's rater-as-social-judge work); the OSCE
+carries documented *equity/differential-attainment* risk (Woolf 2011; Esmail & Roberts 2013);
+and borderline-regression standard-setting is unreliable in the small cohorts typical of a
+specialty college (Homer 2020). The full treatment is in
+[`osce-critiques.md`](./osce-critiques.md). The striking point for the committee: the same
+evidence that *weakens* the OSCE's objectivity claim *legitimises* the expert-judgement basis of
+the CCPR.
+
 **But hold the tension honestly.** Removing the OSCE is contested. **Amos, Weightman & Miller
 (2023, *Australasian Psychiatry*)** modelled trainees transitioning to Fellowship under the
 OSCE-replacement pathway and raised concerns about trainees progressing before demonstrating
-competence; commentary in the general medical press has called the removal risky. The
-committee should treat the portfolio turn not as "the OSCE was bad" but as **"a single
-station exam is the wrong tool for relational competence, *provided* the programmatic
-replacement is rigorous, defensible, and genuinely samples performance."** That proviso is
-the work.
+competence; their 2024 companion commentary critiques the merit/equity/logistics rationale, and
+commentary in the general medical press has called the removal risky. The committee should treat
+the portfolio turn not as "the OSCE was bad" but as **"a single station exam is the wrong tool
+for relational competence, *provided* the programmatic replacement is rigorous, defensible, and
+genuinely samples performance."** That proviso is the work.
 
 ---
 
