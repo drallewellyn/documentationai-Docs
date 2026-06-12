@@ -230,6 +230,17 @@ the canonical Māori frames are **Te Whare Tapa Whā** and **cultural safety / K
 (which is itself the origin of the term the AMC uses). *(Author names — including the Indigenous
 scholars — are verified.)*
 
+> **Note — review and authority.** This reference list was assembled from the published literature
+> and should **not** be treated as a finished curriculum statement. Before it informs the redesign,
+> the First Nations content — its selection, framing and emphasis — should be **reviewed and led by
+> Aboriginal and Torres Strait Islander and by Māori mental-health colleagues** (e.g. through the
+> relevant RANZCP committees, Aboriginal and Torres Strait Islander and Māori mental-health
+> leadership, and community/Elder guidance). This is both an accuracy safeguard and a matter of
+> **appropriate authority over how Indigenous knowledge and wellbeing are represented** — consistent
+> with self-determination and the principle of "nothing about us without us." Where traditional
+> healing (ngangkari, rongoā, Mahi a Atua) is taught, it must be done with, and on the terms of, the
+> relevant knowledge-holders, not extracted as content.
+
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
 | Dudgeon, Milroy & Walker (eds). *Working Together: Aboriginal and Torres Strait Islander Mental Health and Wellbeing Principles and Practice.* 2nd ed; 2014 | open access (Telethon Kids) | The definitive edited reference text on Aboriginal and Torres Strait Islander mental health and wellbeing | Theory |
