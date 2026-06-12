@@ -531,6 +531,69 @@ cultural safety — notably AMC Standard 5, Condition 29). Realigns graduate out
 
 ---
 
+## H. The training-to-practice continuum (transition to practice & early-career consolidation)
+
+> The case that training should not stop at Fellowship: the post-qualification years are a
+> distinct, formative phase for consolidating toward independent, mature specialist practice.
+
+**Transition to Practice as a designed training stage (CBD / CanMEDS)**
+- Frank JR, Karpinski J, Sherbino J, Snell LS, Atkinson A, Oswald A, Hall AK, et al. Competence By
+  Design: a transformational national model of time-variable competency-based postgraduate medical
+  education. *Perspect Med Educ.* 2024;13(1):201–223. doi:10.5334/pme.1096 — Describes CBD's
+  four-stage Competence Continuum ending in a designed **Transition to Practice** stage; the
+  clearest precedent for building post-competence consolidation into the architecture.
+- Carraccio C, Englander R, Van Melle E, ten Cate O, Lockyer J, Chan MK, Frank JR, Snell LS; ICBME
+  Collaborators. Advancing competency-based medical education: a charter for clinician-educators.
+  *Acad Med.* 2016;91(5):645–649. doi:10.1097/ACM.0000000000001048 — Frames physician formation as
+  a seamless continuum across education, training and practice (Fellowship is a node, not an end).
+- Thomson B, O'Halloran H, Wu L, et al. Transition to practice curriculum for general internal
+  medicine physicians: scoping review and Canadian national survey. *BMC Med Educ.*
+  2022;22:609. doi:10.1186/s12909-022-03673-4 *(Correction: BMC Med Educ 2023;
+  doi:10.1186/s12909-023-04317-x)* — Little evidence base for TTP-stage curricula; proposes core
+  topics for the stage.
+
+**The trainee→consultant transition as a critical, formative period**
+- Westerman M, Teunissen PW, van der Vleuten CPM, Scherpbier AJJA, Siegert CEH, van der Lee N,
+  Scheele F. Understanding the transition from resident to attending physician: a transdisciplinary,
+  qualitative study. *Acad Med.* 2010;85(12):1914–1919. doi:10.1097/ACM.0b013e3181fa2913 — New
+  attendings feel clinically prepared but underprepared for non-clinical roles.
+- Teunissen PW, Westerman M. Opportunity or threat: the ambiguity of the consequences of
+  transitions in medical education. *Med Educ.* 2011;45(1):51–59.
+  doi:10.1111/j.1365-2923.2010.03755.x — Transitions are double-edged: developmental *and* risky.
+- Westerman M, Teunissen PW, Fokkema JPI, van der Vleuten CPM, Scherpbier AJJA, Siegert CEH,
+  Scheele F. The transition to hospital consultant and the influence of preparedness, social
+  support, and perception: a structural equation modelling approach. *Med Teach.*
+  2013;35(4):320–327. doi:10.3109/0142159X.2012.735381 — Low preparedness/social support predicts
+  new-consultant burnout.
+- Kilminster S, Zukas M, Quinton N, Roberts T. Preparedness is not enough: understanding
+  transitions as critically intensive learning periods. *Med Educ.* 2011;45(10):1006–1015.
+  doi:10.1111/j.1365-2923.2011.04048.x — The key conceptual reference: support must sit *at* the
+  transition, not only before it.
+
+**Preparedness for practice & early-career support**
+- Monrouxe LV, Grundy L, Mann M, John Z, Panagoulas E, Bullock A, Mattick K. How prepared are UK
+  medical graduates for practice? A rapid review of the literature 2009–2014. *BMJ Open.*
+  2017;7(1):e013656. doi:10.1136/bmjopen-2016-013656 — Self-rated preparedness exceeds expert
+  assessment; persistent gaps — qualification ≠ readiness.
+- Winderbaum J, et al. The benefits, barriers and facilitators of mentoring programs for first-year
+  doctors: a systematic review. *Med Educ.* 2024;58(6):687–696. doi:10.1111/medu.15299 — Mentoring
+  eases the training-to-practice transition and supports wellbeing/retention. *(Targets the
+  student→FY1 transition; psychiatry items below are more on-point for the consultant transition.)*
+
+**Psychiatry-specific**
+- Psychiatrists' experiences of the transition from trainee to consultant: a qualitative study.
+  *BJPsych Open.* 2023. doi:10.1192/bjo.2023.132 — Themes of "facing the real world", "learning from
+  others", "being myself", unified by belonging and professional identity. *(Confirm whether to
+  cite the full article (PMC10345303) or the RCPsych Congress abstract version, and exact
+  volume/pages.)*
+- *Advances in Psychiatric Treatment* practical-guidance series on the SpR→consultant transition,
+  the needs of new consultants, and mentoring newly-appointed consultants — real and citable, but
+  **authors/year/pages to confirm** (publisher pages blocked automated checking).
+- *(Cross-ref: Dreyfus §D, Ericsson §D, Cruess §G — competence at qualification is not
+  proficiency/expertise/identity-maturity, which develop over the post-Fellowship years.)*
+
+---
+
 *Verification method: parallel research agents across seven citation clusters, multi-source
 confirmation against PubMed and publisher records, with corrections and residual uncertainties
 flagged inline. Items marked "(confirm pages/authors)" have verified title/journal/year/DOI but

@@ -241,9 +241,43 @@ the implementation-fidelity yardstick.
 
 ---
 
+## 10. The Training-to-Practice Continuum (Transition to Practice & Early-Career Consolidation)
+
+Fellowship marks **competence, not maturity** — and a substantial literature argues training
+should not stop there. The years immediately after qualification are a distinct, high-stakes,
+formative phase in which the new specialist consolidates toward genuinely independent, expert
+practice. The strongest structural precedent is the Royal College of Canada's **Competence by
+Design**, whose four-stage continuum *ends* in a designed **"Transition to Practice"** stage. The
+transition literature (Westerman & Teunissen; Kilminster) shows new consultants feel clinically
+prepared but underprepared for the *non-clinical* demands of autonomy — supervision, assessment,
+management — and are at real burnout risk; "preparedness is not enough." For a psychiatry program
+this is also identity-and-belonging work (becoming, not just doing). *Design implication: RANZCP's
+Stage 3 "Advanced" and Certificate of Advanced Training partly address this, but the evidence
+supports an explicit, supported **Transition to Practice / early-career phase** — tapering
+entrustment, defined early-career capabilities, structured mentoring/preceptorship, and reframing
+the first CPD years as continued formation rather than separate "maintenance."* This connects to
+§6 (faculty development), §7 (identity formation continues), and the entrustment logic of the CCPR.
+
+| Reference | Link | What it tells us | Category |
+|---|---|---|---|
+| Frank, Karpinski, Sherbino, Snell, Hall et al. Competence By Design: a transformational national model of time-variable CBME. *Perspect Med Educ.* 2024 | [doi](https://doi.org/10.5334/pme.1096) | Describes CBD's four-stage Competence Continuum — Transition to Discipline → Foundations → Core → **Transition to Practice** — the clearest precedent for building post-competence consolidation into the training architecture | Theory |
+| Carraccio, Englander, Van Melle, ten Cate et al. Advancing CBME: A Charter for Clinician-Educators. *Acad Med.* 2016 | [doi](https://doi.org/10.1097/ACM.0000000000001048) | Frames physician formation as a *seamless continuum* across education, training and practice — Fellowship is a node, not an endpoint | Theory |
+| Thomson et al. Transition to practice curriculum… scoping review and national survey. *BMC Med Educ.* 2022 | [doi](https://doi.org/10.1186/s12909-022-03673-4) | Finds little evidence base for Transition-to-Practice-stage curricula and proposes core curricular topics for the stage | Evidence |
+| Westerman, Teunissen, van der Vleuten et al. Understanding the transition from resident to attending physician. *Acad Med.* 2010 | [doi](https://doi.org/10.1097/ACM.0b013e3181fa2913) | Qualitative study: new attendings feel clinically prepared but underprepared for non-clinical roles (supervision, assessment, management) — a real developmental gap after qualification | Evidence |
+| Teunissen & Westerman. Opportunity or threat: the ambiguity of transitions in medical education. *Med Educ.* 2011 | [doi](https://doi.org/10.1111/j.1365-2923.2010.03755.x) | Transitions are double-edged — simultaneously developmental opportunities and sources of stress/risk; design to harness the opportunity and buffer the threat | Theory |
+| Westerman, Teunissen, Fokkema et al. The transition to hospital consultant… (SEM). *Med Teach.* 2013 | [doi](https://doi.org/10.3109/0142159X.2012.735381) | Low preparedness and weak social support at the consultant transition predict burnout — argues for structured support across the boundary | Evidence |
+| Kilminster, Zukas, Quinton, Roberts. Preparedness is not enough: transitions as critically intensive learning periods. *Med Educ.* 2011 | [doi](https://doi.org/10.1111/j.1365-2923.2011.04048.x) | Reframes transitions (incl. to independent practice) as "critically intensive learning periods" — pre-transition preparedness alone cannot ensure safe performance; support must sit *at* the transition | Theory |
+| Monrouxe et al. How prepared are UK medical graduates for practice? (rapid review). *BMJ Open* 2017 | [doi](https://doi.org/10.1136/bmjopen-2016-013656) | Graduates rate themselves more prepared than expert assessment shows, with persistent gaps — evidence that qualification ≠ readiness for the full demands of practice | Evidence |
+| Winderbaum et al. Mentoring programs for first-year doctors: a systematic review. *Med Educ.* 2024 | [doi](https://doi.org/10.1111/medu.15299) | Systematic review: formal/near-peer mentoring eases the training-to-practice transition and supports wellbeing and retention | Evidence |
+| Psychiatrists' experiences of the transition from trainee to consultant: a qualitative study. *BJPsych Open* 2023 | [doi](https://doi.org/10.1192/bjo.2023.132) *(confirm full-article vs congress-abstract version)* | Psychiatry-specific: the trainee→consultant transition is identity-and-belonging work ("facing the real world", "learning from others", "being myself") | Evidence |
+| *(Practical psychiatry guidance — SpR→consultant transition / needs of & mentoring for new consultants.* Adv Psychiatr Treat *series — authors/pages to confirm)* | Cambridge Core | Practical, profession-specific accounts of the consultant transition and the case for mentoring newly-appointed consultants | Theory |
+| Dreyfus (§3) · Ericsson (§3) · Cruess (§7) *(cross-ref)* | — | The developmental spine: competence at qualification ≠ proficiency/expertise/identity-maturity, which accrue over the post-Fellowship years | Theory |
+
+---
+
 ## Cross-cutting note
 
-Three themes recur across sections and are worth tracking as the redesign proceeds:
+Four themes recur across sections and are worth tracking as the redesign proceeds:
 1. **From objectivity to trustworthiness** — the assessment evidence (§4, §8) has moved from
    "is it objective?" to "is the *programme* trustworthy?"; the CCPR is on the right side of this.
 2. **Judgement as signal, not noise** — examiner subjectivity (§4), expert narrative (§7) and
@@ -251,6 +285,9 @@ Three themes recur across sections and are worth tracking as the redesign procee
    stakes for faculty development (§6).
 3. **Equity by design** (§8) — the differential-attainment evidence must shape assessment,
    faculty training and curriculum content, in line with the AMC conditions.
+4. **Training as a continuum, not an endpoint** (§10) — competence at Fellowship is not maturity;
+   the evidence supports a supported Transition to Practice / early-career phase rather than
+   treating qualification as the finish line.
 
 *Verification: citations checked against PubMed/publisher records via a multi-source research
 pass; residual page/author checks are flagged inline as (confirm).*

@@ -8,7 +8,7 @@ competency-based medical education (CBME).
 
 | Document | Purpose |
 |---|---|
-| [`redesign-report.md`](./redesign-report.md) | **The main sectioned report** — nine design-domain sections (Competency Framework & Its Critics, Curriculum Design, Pedagogy, Assessment, Feedback, Supervisors/Faculty Development, Professional Identity & Reflective Practice, Equity & Cultural Safety, Program Evaluation), each with a narrative plus a reference table (reference · link · what it tells us · category). |
+| [`redesign-report.md`](./redesign-report.md) | **The main sectioned report** — ten design-domain sections (Competency Framework & Its Critics, Curriculum Design, Pedagogy, Assessment, Feedback, Supervisors/Faculty Development, Professional Identity & Reflective Practice, Equity & Cultural Safety, Program Evaluation, and the Training-to-Practice Continuum), each with a narrative plus a reference table (reference · link · what it tells us · category). |
 | [`briefing-paper.md`](./briefing-paper.md) | Narrative briefing for the curriculum committee, organised around the key **design decisions and tensions** (CBME vs. its critics, the OSCE problem, learning theory vs. andragogy), situated in the live RANZCP context. |
 | [`osce-critiques.md`](./osce-critiques.md) | Focused deep-dive on the **OSCE under critique — classic (Hodges) and recent (2015–2026)**: authenticity, examiner cognition, equity/differential attainment, COVID reappraisal, standard-setting, and the contested RANZCP removal. |
 | [`foundations-identity-supervision.md`](./foundations-identity-supervision.md) | The distinctively **psychiatric core**: professional identity formation, reflective practice, supervision and Balint, feedback/coaching, faculty development, and program evaluation. |
