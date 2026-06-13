@@ -5,3 +5,4 @@ node_modules/
 *.log
 .review-seed/
 _kb-import-nav.json.bak
+psychiatry-education-redesign/build/
