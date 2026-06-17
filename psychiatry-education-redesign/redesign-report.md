@@ -1,148 +1,100 @@
 # RANZCP Psychiatry Training Redesign — Sectioned Evidence Report
 
-*A committee-facing synthesis of the medical-education and educational literature informing the
-redesign, organised by design domain. Each section opens with a short narrative on how the
-references bear on the redesign, followed by a reference table.*
-
-> **Companion files:** full verified citations (authors, journal, pages, DOI/ISBN) are in
-> [`annotated-bibliography.md`](./annotated-bibliography.md); deeper narrative arguments are in
-> [`briefing-paper.md`](./briefing-paper.md), [`osce-critiques.md`](./osce-critiques.md) and
-> [`foundations-identity-supervision.md`](./foundations-identity-supervision.md); RANZCP/ACER
-> source reports are in [`internal-reports/`](./internal-reports/).
+*A synthesis of the medical-education and educational literature informing the redesign, organised by design domain. Each section opens with a short narrative on how the references bear on the redesign, followed by a reference table.*
 
 ### How to read the tables
 
-- **Link** — DOI (`doi.org/…`) or PubMed for articles; ISBN for books; institutional site for
-  RANZCP/AMC documents. Items marked *(confirm)* have verified title/journal/year but a page or
-  author detail to check against PubMed/Crossref before formal publication.
+- **Link** — DOI (doi.org/…) or PubMed for articles; ISBN for books; institutional site link.
 - **Category** — one of four:
-  - **Evidence** — empirical studies, trials, systematic reviews.
-  - **Theory** — conceptual frameworks, models, and theoretical/critique pieces.
-  - **RANZCP internal** — the College's own program documents.
-  - **Regulatory/AMC** — external accreditation standards and conditions.
+- **Evidence** — empirical studies, trials, systematic reviews.
+- **Theory** — conceptual frameworks, models, and theoretical/critique pieces.
+- **RANZCP internal** — the College's own program documents.
+- **Regulatory/AMC** — external accreditation standards and conditions.
 
 ---
 
 ## 1. Competency Framework & Its Critics
 
-The redesign sits inside a competency-based architecture the College has already adopted, and
-which the AMC review reaffirmed by aligning graduate outcomes to **CanMEDS 2015**. The framework
-references below define that architecture; the critique references map its documented failure modes
-— reductionism, unmeasurable competencies, administrative burden — so the committee designs
-*against* them rather than rediscovering them. (EPAs, the operational unit of the framework, have
-their own section — §2; the burden critique is developed in §6.) The honest framing: CBME is
-settled as direction; the work is implementation fidelity.
+The redesign sits inside a competency-based architecture the College has already adopted, and which the AMC review reaffirmed by aligning graduate outcomes to **CanMEDS 2015**. The framework references below define that architecture; the critique references map its documented failure modes — reductionism, unmeasurable competencies, administrative burden — so the committee designs *against* them rather than rediscovering them. (EPAs, the operational unit of the framework, have their own section — §2; the burden critique is developed in §6.) The honest framing: CBME is settled as direction; the work is implementation fidelity.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
-| Frank, Snell, Sherbino (eds). *CanMEDS 2015 Physician Competency Framework.* RCPSC; 2015 | ISBN 978-1-926588-28-5 | Defines competence as seven physician Roles (Medical Expert plus six "intrinsic" roles); the explicit template RANZCP graduate outcomes are being mapped to, and a strong fit for psychiatry's reliance on the Communicator/Collaborator/Advocate roles | Theory |
-| RCPSC. CanMEDS 2025 revision — current status (CanMEDS Project) | [royalcollege.ca](https://www.royalcollege.ca/en/standards-and-accreditation/canmeds/development-and-updates.html) | CanMEDS is under revision (draft due 2026): the **seven Roles are being retained**, and emerging topics (wellness, planetary & Indigenous health, anti-racism, AI/data, EDI) are woven through existing Roles as competencies **rather than added as a new Role** — so align to the seven Roles, not an eighth *(confirm exact wording/date)* | Theory |
+| Frank, Snell, Sherbino (eds). *CanMEDS 2015 Physician Competency Framework.* RCPSC; 2015 | ISBN 978-1-926588-28-5 | Defines competence as seven physician Roles (Medical Expert plus six "intrinsic" roles); the explicit template RANZCP graduate outcomes are being mapped to. | Theory |
+| RCPSC. CanMEDS 2025 revision — current status (CanMEDS Project) | [royalcollege.ca](https://www.royalcollege.ca/en/standards-and-accreditation/canmeds/development-and-updates.html) | CanMEDS is under revision (draft due 2026): the **seven Roles are being retained**, and emerging topics (wellness, planetary & Indigenous health, anti-racism, AI/data, EDI) are woven through existing Roles as competencies **rather than added as a new Role** — so align to the seven Roles, not an eighth *(confirm exact wording/date).* | Theory |
 | Frank et al. Competency-based medical education: theory to practice. *Med Teach.* 2010 | [doi](https://doi.org/10.3109/0142159X.2010.501190) | The canonical statement of CBME's rationale, promises and predictable pitfalls — read it before committing, to anticipate the failure modes | Theory |
-| ACGME. *The Psychiatry Milestones* (2.0); 2020 | [acgme.org](https://www.acgme.org) | Behaviourally-anchored novice→expert developmental trajectories per competency, validated for psychiatry residents; a defensible model for progression decisions | Theory |
-| Touchie & ten Cate. The promise, perils, problems and progress of CBME. *Med Educ.* 2016 | [doi](https://doi.org/10.1111/medu.12839) | From CBME proponents, a candid catalogue of the documented harms — assessment burden, reductionism, gaming — useful as a standing risk register | Theory |
-| Van Melle et al. A Core Components Framework for Evaluating CBME. *Acad Med.* 2019 | [doi](https://doi.org/10.1097/ACM.0000000000002743) | A fidelity framework for judging whether a CBME rollout is implemented as intended — because most "CBME failed" stories are really implementation failures | Theory |
+| ACGME. *The Psychiatry Milestones* (2.0); 2020 | [acgme.org](https://www.acgme.org/specialties/psychiatry/milestones/) | Behaviourally-anchored novice→expert developmental trajectories per competency, validated for psychiatry residents; a defensible model for progression decisions. | Theory |
+| Touchie & ten Cate. The promise, perils, problems and progress of CBME. *Med Educ.* 2016 | [doi](https://doi.org/10.1111/medu.12839) | From CBME proponents, a candid catalogue of the documented harms — assessment burden, reductionism, gaming — useful as a standing risk register. | Theory/Evidence |
+| Van Melle et al. A Core Components Framework for Evaluating CBME. *Acad Med.* 2019 | [doi](https://doi.org/10.1097/ACM.0000000000002743) | A fidelity framework for judging whether a CBME rollout is implemented as intended — because most "CBME failed" stories are really implementation failures. | Theory |
 | Talbot. Monkey see, monkey do: a critique of the competency model. *Med Educ.* 2004 | [doi](https://doi.org/10.1046/j.1365-2923.2004.01794.x) | The classic philosophical critique: competency models fragment holistic professional practice into atomised, checkable units and lose the whole | Theory |
-| Lurie, Mooney, Lyness. Measurement of the general ACGME competencies: systematic review. *Acad Med.* 2009 | [doi](https://doi.org/10.1097/ACM.0b013e3181971f08) | Systematic-review evidence that the competencies cannot be reliably measured as independent constructs — assessors form global judgements and back-fill the framework | Evidence |
-| Norman, Norcini, Bordage. Competency-based education: milestones or millstones? *J Grad Med Educ.* 2014 | [doi](https://doi.org/10.4300/JGME-D-13-00445.1) | Warns the milestones/assessment machinery can become an administrative burden out of proportion to its educational yield ("millstones") | Theory |
-| Hodges. A tea-steeping or i-Doc model for medical education? *Acad Med.* 2010 | [doi](https://doi.org/10.1097/ACM.0b013e3181f12f32) | Contrasts time-based immersion ("tea-steeping", a rounded clinician) with CBME's modular "i-Doc"; each gains and loses something — preserve what immersion protects | Theory |
-| Whitehead, Austin, Hodges. Continuing the competency debate. *Adv Health Sci Educ.* 2013 | [doi](https://doi.org/10.1007/s10459-012-9407-7) | Traces how "competency" became an unexamined orthodoxy and warns of reductionism and the loss of collective/holistic notions of competence | Theory |
-| RANZCP Competency-Based Fellowship Program (CBFP) | [ranzcp.org](https://www.ranzcp.org/pre-fellowship/about-the-training-program) | The current five-year, three-stage (Basic / Proficient / Advanced) competency-based program — the architecture being redesigned | RANZCP internal |
-| RANZCP Curriculum Redesign (ACER-led; CanMEDS alignment; ~2028) | [ranzcp.org](https://www.ranzcp.org/membership/faculties-sections-and-networks/curriculum-redesign) | The live overhaul realigning graduate outcomes to CanMEDS 2015 in response to AMC conditions, with implementation targeted ~2028 | RANZCP internal |
-| AMC. *Standards for Assessment and Accreditation of Specialist Medical Programs.* AMC; 2023 | [amc.org.au (PDF)](https://www.amc.org.au/wp-content/uploads/2023/08/Standards-for-Assessment-and-Accreditation-of-Specialist-Medical-Programs-by-the-Australian-Medical-Council-2023-secured.pdf) | The external accreditation standards the College is held to — including the **Standard 5** conditions (reduce assessment burden; cultural safety; curriculum structure) that mandate and shape this redesign | Regulatory/AMC |
-| RANZCP. *Reaccreditation Report to the Australian Medical Council* (original comprehensive submission — not the annual progress updates) *(confirm exact title/year)* | ranzcp.org / on file | The College's full self-assessment against the AMC standards, from which the accreditation conditions driving this redesign arose | RANZCP internal |
+| Lurie, Mooney, Lyness. Measurement of the general ACGME competencies: systematic review. *Acad Med.* 2009 | [doi](https://doi.org/10.1097/ACM.0b013e3181971f08) | Systematic-review evidence that the competencies cannot be reliably measured as independent constructs — assessors form global judgements and back-fill the framework. | Evidence |
+| Norman, Norcini, Bordage. Competency-based education: milestones or millstones? *J Grad Med Educ.* 2014 | [doi](https://doi.org/10.4300/JGME-D-13-00445.1) | Warns the milestones/assessment machinery can become an administrative burden out of proportion to its educational yield ("millstones"). | Theory |
+| RANZCP Competency-Based Fellowship Program (CBFP) | [ranzcp.org](https://www.ranzcp.org/pre-fellowship/about-the-training-program) | The current five-year, three-stage (Basic / Proficient / Advanced) competency-based program — the architecture being redesigned. | RANZCP internal |
+| RANZCP Curriculum Redesign (ACER-led; CanMEDS alignment; ~2028) | [ranzcp.org](https://www.ranzcp.org/membership/faculties-sections-and-networks/curriculum-redesign) | The live overhaul realigning graduate outcomes to CanMEDS 2015 in response to AMC conditions, with implementation targeted ~2028. | RANZCP internal |
+| AMC. *Standards for Assessment and Accreditation of Specialist Medical Programs.* AMC; 2023 | [amc.org.au (PDF)](https://www.amc.org.au/wp-content/uploads/2023/08/Standards-for-Assessment-and-Accreditation-of-Specialist-Medical-Programs-by-the-Australian-Medical-Council-2023-secured.pdf) | The external accreditation standards the College is held to — including the **Standard 5** conditions (reduce assessment burden; cultural safety; curriculum structure) that mandate and shape this redesign. | Regulatory/AMC |
+| Australian Medical Council Limited. Accreditation report: The education and training programs of the Royal Australian and New Zealand College of Psychiatrists. Specialist Education Accreditation Committee; 2023. | [ranzcp.org](https://www.ranzcp.org/getmedia/397638ad-1fdb-43f5-8ff6-870a22b1dbdd/2023-RANZCP-Report-secured.pdf) | The College's most recent accreditation report from the Australian Medical Council. | RANZCP internal |
 
 ---
 
 ## 2. Entrustable Professional Activities (EPAs)
 
-EPAs are the **operational unit** of the competency framework — the bridge from abstract
-competencies to entrustable units of real clinical work, and the basis of the RANZCP
-workplace-based assessment and portfolio system. The references below cover the concept and its
-rationale (ten Cate), the practical "how-to" of building and *describing* EPAs (AMEE Guides 99 and
-140), the entrustment/supervision scale that underpins entrustment decisions (O-SCORE), and the
-caution to define EPAs sparingly and validate entrustment (Krupat). *Design implication: get the
-EPA descriptions and entrustment scale right — they drive the whole WBA/CCPR system — and keep the
-set lean to avoid the burden documented in §6.*
+EPAs are an **operational unit** of the competency framework — the bridge from abstract competencies to entrustable units of real clinical work, and the basis of the current RANZCP workplace-based assessment and portfolio system. The references below cover the concept and its rationale (ten Cate), the practical "how-to" of building and *describing* EPAs (AMEE Guides 99 and 140), the entrustment/supervision scale that underpins entrustment decisions (O-SCORE), and the caution to define EPAs sparingly and validate entrustment (Krupat).
+
+*Design implication: get the EPA descriptions and entrustment scale right — they drive the whole WBA/CCPR system — and keep the set lean to avoid the burden documented in §6.*
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
-| ten Cate. Entrustability of professional activities and competency-based training. *Med Educ.* 2005 | [doi](https://doi.org/10.1111/j.1365-2929.2005.02341.x) | The origin of the EPA concept — a unit of professional work a supervisor can be trusted to delegate, translating competencies into observable, entrustable tasks | Theory |
-| ten Cate & Scheele. Viewpoint: Competency-based postgraduate training… *Acad Med.* 2007 | [doi](https://doi.org/10.1097/ACM.0b013e31805559c7) | Argues entrustment decisions bridge the gap between competency *theory* and the trust judgements supervisors actually make day-to-day | Theory |
-| ten Cate, Chen et al. Curriculum development for the workplace using EPAs: AMEE Guide No. 99. *Med Teach.* 2015 | [doi](https://doi.org/10.3109/0142159X.2015.1060308) | The practical "how-to-implement EPAs" guide — building a workplace curriculum from EPAs | Theory |
-| ten Cate & Taylor. The recommended description of an entrustable professional activity: AMEE Guide No. 140. *Med Teach.* 2021 | [doi](https://doi.org/10.1080/0142159X.2020.1838465) | The current standard for *how to write/describe an EPA*; a practical template for drafting the RANZCP EPA set | Theory |
+| ten Cate. Entrustability of professional activities and competency-based training. *Med Educ.* 2005 | [doi](https://doi.org/10.1111/j.1365-2929.2005.02341.x) | The origin of the EPA concept — a unit of professional work a supervisor can be trusted to delegate, translating competencies into observable, entrustable tasks. | Theory |
+| ten Cate, Chen et al. Curriculum development for the workplace using EPAs: AMEE Guide No. 99. *Med Teach.* 2015 | [doi](https://doi.org/10.3109/0142159X.2015.1060308) | The practical "how-to-implement EPAs" guide — building a workplace curriculum from EPAs. | Theory |
+| ten Cate & Taylor. The recommended description of an entrustable professional activity: AMEE Guide No. 140. *Med Teach.* 2021 | [doi](https://doi.org/10.1080/0142159X.2020.1838465) | The current standard for *how to write/describe an EPA*; a practical template for drafting the RANZCP EPA set. | Theory |
 | Gofton, Dudek, Wood, Balaa, Hamstra. The Ottawa Surgical Competency Operating Room Evaluation (O-SCORE). *Acad Med.* 2012 | [doi](https://doi.org/10.1097/ACM.0b013e3182677805) | The original entrustment/supervision rating scale ("how much guidance did the trainee need?") that underpins entrustment-based WBA and the OCA/IOCA logic | Theory |
-| Krupat. Critical thoughts about the Core EPAs. *Acad Med.* 2018 | [doi](https://doi.org/10.1097/ACM.0000000000001865) | Problematises the EPA bandwagon; argues for defining EPAs sparingly and carefully and for validating entrustment decisions | Theory |
-| RANZCP EPAs — ~25–30 EPAs entrusted for Fellowship, mapped to CanMEDS-based learning outcomes and informed by the WBA suite | [ranzcp.org](https://www.ranzcp.org/pre-fellowship/about-the-training-program/entrustable-skills) | How the College currently operationalises EPAs (the system the redesign refines) | RANZCP internal |
 
 ---
 
 ## 3. Curriculum Design
 
-Curriculum design is a method, not an act of taste. Kern's six-step approach is the process
-backbone; constructive alignment is the non-negotiable principle that outcomes, learning
-activities and assessment must line up; and Harden's SPICES model gives a vocabulary for the
-*strategic* choices. Together they supply the discipline to reduce the syllabus duplication the AMC
-flagged while keeping outcomes, teaching and the new portfolio assessment coherent.
+Curriculum design is a method, not an act of taste. Kern's six-step approach is the process backbone; constructive alignment is the non-negotiable principle that outcomes, learning activities and assessment must line up; and Harden's SPICES model gives a vocabulary for the *strategic* choices. Together they supply the discipline to reduce the syllabus duplication the AMC flagged while keeping outcomes, teaching and the new portfolio assessment coherent.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
 | Thomas, Kern, Hughes, Tackett, Chen (eds). *Curriculum Development for Medical Education: A Six-Step Approach.* 4th ed; 2022 | ISBN 9781421444093 | The standard operational playbook — problem identification → targeted needs assessment → goals/objectives → educational strategies → implementation → evaluation; the scaffolding for the whole redesign | Theory |
 | Biggs & Tang. *Teaching for Quality Learning at University.* 5th ed; 2022 | ISBN 9780335250820 | Constructive alignment: intended outcomes, teaching/learning activities and assessment must all line up — the operational backbone of coherent course design | Theory |
 | Biggs. Enhancing teaching through constructive alignment. *Higher Educ.* 1996 | [doi](https://doi.org/10.1007/BF00138871) | The original journal statement of constructive alignment | Theory |
-| Harden, Sowden, Dunn. Educational strategies in curriculum development: the SPICES model. *Med Educ.* 1984 | [doi](https://doi.org/10.1111/j.1365-2923.1984.tb01024.x) | A six-dimension spectrum (Student-centred, Problem-based, Integrated, Community-based, Elective, Systematic) for positioning the *strategic* shape of a curriculum — e.g. how integrated and recovery/community-oriented the psychiatry program should be | Theory |
-| CanMEDS 2015 *(cross-ref §1)* — outcomes framework / alignment target | ISBN 978-1-926588-28-5 | The graduate-outcomes template the syllabus is being aligned to | Theory |
-| RANZCP CBFP stage structure & syllabus *(cross-ref §1)* | [ranzcp.org](https://www.ranzcp.org/pre-fellowship/about-the-training-program) | The existing curriculum structure under revision | RANZCP internal |
+| Harden RM, Laidlaw JM. Essential skills for a medical teacher: an introduction to teaching and learning in medicine. 3rd ed. Elsevier; 2021. | [doi](https://doi.org/10.1111/j.1365-2923.1984.tb01024.x) | A six-dimension spectrum (Student-centred, Problem-based, Integrated, Community-based, Elective, Systematic) for positioning the *strategic* shape of a curriculum — e.g. how integrated and recovery/community-oriented the psychiatry program should be | Theory |
 
 ---
 
 ## 4. Pedagogy
 
-This is where the redesign should be boldest and most evidence-led — and where I'd caution
-against leaning on andragogy. Norman's "mythical species" is the citable basis for *not* making
-adult-learning theory load-bearing: it tends to justify under-structuring. Build instead on
-frameworks with real traction: Self-Determination Theory for motivation, cognitive load / 4C/ID
-for instructional design, the cognitive science of learning (retrieval, spacing) for retention,
-deliberate practice and simulation for skill, and situated learning for how psychiatric identity
-forms in teams.
+This is where the redesign should be boldest and most evidence-led — caution against leaning too much on andragogy (adult learning theory). Norman's "mythical species" is the citable basis for *not* making adult-learning theory load-bearing: it tends to justify under-structuring. Build instead on frameworks with real traction: Self-Determination Theory for motivation, reducing cognitive load for instructional design, the cognitive science of learning (retrieval, spacing) for retention, deliberate practice and simulation for skill, and situated learning for how psychiatric identity forms in teams.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
-| Norman. The adult learner: a mythical species. *Acad Med.* 1999 | [doi](https://doi.org/10.1097/00001888-199908000-00011) | The supposed special traits of "adult learners" are not empirically distinct from how anyone learns — so don't make andragogy load-bearing or use it to justify under-structuring | Theory |
-| Ryan & Deci. Self-determination theory… *Am Psychol.* 2000 (and Deci & Ryan, 1985) | [doi](https://doi.org/10.1037/0003-066X.55.1.68) | Motivation rests on three needs — autonomy, competence, relatedness; the robust, evidence-based replacement for andragogy's motivational claims | Theory |
-| Ten Cate, Kusurkar, Williams. SDT in medical education: AMEE Guide No. 59. *Med Teach.* 2011 | [doi](https://doi.org/10.3109/0142159X.2011.595435) | Applies SDT to medical training and explains *when* autonomy actually helps (once competence and relatedness are in place) | Theory |
-| Sweller. Cognitive load during problem solving. *Cognitive Science.* 1988 | [doi](https://doi.org/10.1207/s15516709cog1202_4) | Cognitive load theory: working memory is limited, so instruction must manage intrinsic and extraneous load — the science behind sequencing complex skills like formulation | Theory |
-| van Merriënboer, Kirschner, Frèrejean. *Ten Steps to Complex Learning* (4C/ID). 4th ed; 2024 | ISBN 9781032333113 | The Four-Component Instructional Design model — a blueprint for teaching whole, complex, integrated professional tasks rather than isolated competencies | Theory |
-| Dunlosky et al. Improving students' learning with effective learning techniques. *Psychol Sci Public Interest.* 2013 | [doi](https://doi.org/10.1177/1529100612453266) | Ranks study techniques by evidence: retrieval practice and distributed (spaced) practice are high-utility and chronically under-used in postgraduate training | Evidence |
-| Brown, Roediger, McDaniel. *Make It Stick: The Science of Successful Learning.* Harvard UP; 2014 | ISBN 978-0674729018 | The accessible, evidence-based translation of the cognitive science of learning — retrieval, spacing, interleaving and "desirable difficulties" — for educators and trainees | Theory |
-| Freeman et al. Active learning increases student performance… *PNAS.* 2014 | [doi](https://doi.org/10.1073/pnas.1319030111) | Meta-analysis of 225 studies: active learning raises performance and lowers failure versus didactic lecture | Evidence |
-| Ericsson. Deliberate practice and expert performance in medicine. *Acad Med.* 2004 | [doi](https://doi.org/10.1097/00001888-200410001-00022) | Expertise comes from deliberate practice — structured, progressively harder tasks with immediate feedback — directly applicable to interviewing, formulation and psychotherapy | Theory |
-| McGaghie et al. SBME with deliberate practice vs traditional clinical education: meta-analysis. *Acad Med.* 2011 | [doi](https://doi.org/10.1097/ACM.0b013e318217e119) | Meta-analytic evidence that simulation-based education with deliberate practice outperforms traditional clinical teaching | Evidence |
-| McGaghie et al. Simulation-based mastery learning with translational outcomes. *Med Educ.* 2014 | [doi](https://doi.org/10.1111/medu.12391) | Review evidence for mastery learning (fixed standard, variable time) with translational patient outcomes — the learning model CBME aspires to | Evidence |
-| Lave & Wenger. *Situated Learning: Legitimate Peripheral Participation.* CUP; 1991 | ISBN 978-0521423748 | How professional identity and tacit knowledge are acquired through participation in clinical teams ("communities of practice") — especially apt for psychiatry | Theory |
+| Norman. The adult learner: a mythical species. *Acad Med.* 1999 | [doi](https://doi.org/10.1097/00001888-199908000-00011) | The supposed special traits of "adult learners" are not empirically distinct from how anyone learns — so don't make andragogy load-bearing or use it to justify under-structuring. | Theory |
+| Ryan & Deci. Self-determination theory… *Am Psychol.* 2000 (and Deci & Ryan, 1985) | [doi](https://doi.org/10.1037/0003-066X.55.1.68) | Motivation rests on three needs — autonomy, competence, relatedness; the robust, evidence-based replacement for andragogy's motivational claims. | Theory |
+| Ten Cate, Kusurkar, Williams. SDT in medical education: AMEE Guide No. 59. *Med Teach.* 2011 | [doi](https://doi.org/10.3109/0142159X.2011.595435) | Applies SDT to medical training and explains *when* autonomy actually helps (once competence and relatedness are in place). | Theory |
+| Sweller. Cognitive load during problem solving. *Cognitive Science.* 1988 | [doi](https://doi.org/10.1207/s15516709cog1202_4) | Cognitive load theory: working memory is limited, so instruction must manage intrinsic and extraneous load — the science behind sequencing complex skills like formulation. | Theory |
+| Dunlosky et al. Improving students' learning with effective learning techniques. *Psychol Sci Public Interest.* 2013 | [doi](https://doi.org/10.1177/1529100612453266) | Ranks study techniques by evidence: retrieval practice and distributed (spaced) practice are high-utility and chronically under-used in postgraduate training. | Evidence |
+| Brown, Roediger, McDaniel. *Make It Stick: The Science of Successful Learning.* Harvard UP; 2014 | ISBN 978-0674729018 | The accessible, evidence-based translation of the cognitive science of learning — retrieval, spacing, interleaving and "desirable difficulties" — for educators and trainees. | Theory |
+| Freeman et al. Active learning increases student performance… *PNAS.* 2014 | [doi](https://doi.org/10.1073/pnas.1319030111) | Meta-analysis of 225 studies: active learning raises performance and lowers failure versus didactic lecture. | Evidence |
+| Ericsson. Deliberate practice and expert performance in medicine. *Acad Emerg Med.* 2008; 15:988–994 | [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1553-2712.2008.00227.x) | Expertise comes from deliberate practice — structured, progressively harder tasks with immediate feedback — directly applicable to interviewing, formulation and psychotherapy. | Theory |
+| McGaghie et al. SBME with deliberate practice vs traditional clinical education: meta-analysis. *Acad Med.* 2011 | [doi](https://doi.org/10.1097/ACM.0b013e318217e119) | Meta-analytic evidence that simulation-based education with deliberate practice outperforms traditional clinical teaching. | Evidence |
+| Lave & Wenger. *Situated Learning: Legitimate Peripheral Participation.* CUP; 1991 | ISBN 978-0521423748 | How professional identity and tacit knowledge are acquired through participation in clinical teams ("communities of practice") — especially apt for psychiatry. | Theory |
 
 ---
 
 ## 5. Assessment
 
-The most consequential — and most contested — domain. The College has already left the OSCE for
-the programmatic, portfolio-based **CCPR**. The references here justify that direction
-(programmatic assessment; the OSCE critique) *and* hold the tension honestly (Amos et al. warn
-the portfolio may detect pre-competence less well). The design imperative: make the CCPR rigorous —
-enough independent, observed sampling to defend entrustment — while treating examiner judgement as
-legitimate signal, not noise. *(Equity/differential-attainment evidence on the OSCE sits in §10;
-the trainee/assessor experience and the burden it creates are developed in §6.)*
+The most consequential — and most contested — domain. The College has already retired the OSCE in lieu of a programmatic, portfolio-based **CCPR**. The references here justify that direction (programmatic assessment; the OSCE critique) *and* hold the tension honestly (Amos et al. warn the portfolio may detect pre-competence less well). The design imperative: make the CCPR rigorous — enough independent, observed sampling to defend entrustment — while treating examiner judgement as legitimate signal, not noise.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
-| van der Vleuten & Schuwirth. Assessing professional competence: from methods to programmes. *Med Educ.* 2005 | [doi](https://doi.org/10.1111/j.1365-2929.2005.02094.x) | Programmatic assessment: no single instrument is adequate; competence is inferred from many low- and high-stakes data points combined by expert judgement — the conceptual basis of the CCPR | Theory |
-| Schuwirth & van der Vleuten et al. The next era of assessment: a trustworthy assessment system. *Perspect Med Educ.* 2024 | [doi](https://doi.org/10.5334/pme.1110) *(confirm authors)* | The current synthesis — move from defensible single instruments to a longitudinal, multi-datapoint "trustworthy" assessment system | Theory |
-| Miller. The assessment of clinical skills/competence/performance. *Acad Med.* 1990 | [doi](https://doi.org/10.1097/00001888-199009000-00045) | Miller's pyramid (knows → knows how → shows how → does) aligns each method to the level of competence it can credibly reach; psychiatric competence lives at "does" | Theory |
-| Hodges et al. OSCE checklists do not capture increasing levels of expertise. *Acad Med.* 1999 | [pubmed](https://pubmed.ncbi.nlm.nih.gov/10536636/) | On standardised-patient interviews, global ratings rose with expertise but checklist scores *fell* — direct evidence that checklists can be construct-invalid for nuanced clinical skill | Evidence |
-| Hodges. Validity and the OSCE. *Med Teach.* 2003 | [doi](https://doi.org/10.1080/01421590310001002836) | Argues the OSCE's celebrated objectivity was bought by fragmenting performance into discrete stations, which quietly changes what "competence" is taken to mean | Theory |
-| Hodges. *The Objective Structured Clinical Examination: A Socio-History.* 2009 | ISBN 978-3-8383-0181-5 | A discourse analysis showing the OSCE doesn't merely *measure* competence — it *constructs* a particular version of it (the time-limited "competent performer") | Theory |
-| Hodges. Assessment in the post-psychometric era… *Med Teach.* 2013 | [doi](https://doi.org/10.3109/0142159X.2013.789134) | The constructive turn — rehabilitate expert judgement and narrative rather than chase psychometric objectivity; the explicit intellectual warrant for the CCPR | Theory |
-| Hodges et al. Validation of an OSCE in psychiatry. *Acad Med.* 1998 | [pubmed](https://pubmed.ncbi.nlm.nih.gov/9736854/) | Hodges' psychiatry-specific OSCE validation work — where the psychiatric-interview evidence actually lives | Evidence |
-| Yeates et al. A realist evaluation of OSCE authenticity. *Med Teach.* 2025 | [doi](https://doi.org/10.1080/0142159X.2024.2339413) | Realist evaluation: OSCE authenticity is conditional on design features (whole cases, time, autonomy, minimal interruption), not intrinsic to the format | Evidence |
+| van der Vleuten & Schuwirth. Assessing professional competence: from methods to programmes. *Med Educ.* 2005 | [doi](https://doi.org/10.1111/j.1365-2929.2005.02094.x) | Programmatic assessment: no single instrument is adequate; competence is inferred from many low- and high-stakes data points combined by expert judgement — the conceptual basis of the CCPR. | Theory |
+| Schuwirth & van der Vleuten et al. The next era of assessment: a trustworthy assessment system. *Perspect Med Educ.* 2024 | [doi](https://doi.org/10.5334/pme.1110) *(confirm authors)* | The current synthesis — move from defensible single instruments to a longitudinal, multi-datapoint "trustworthy" assessment system. | Theory |
+| Miller. The assessment of clinical skills/competence/performance. *Acad Med.* 1990 | [doi](https://doi.org/10.1097/00001888-199009000-00045) | Miller's pyramid (knows → knows how → shows how → does) aligns each method to the level of competence it can credibly reach; psychiatric competence lives at "does". | Theory |
+| Hodges et al. OSCE checklists do not capture increasing levels of expertise. *Acad Med.* 1999 | [pubmed](https://pubmed.ncbi.nlm.nih.gov/10536636/) | On standardised-patient interviews, global ratings rose with expertise but checklist scores *fell* — direct evidence that checklists can be construct-invalid for nuanced clinical skill. | Evidence |
+| Hodges. Validity and the OSCE. *Med Teach.* 2003 | [doi](https://doi.org/10.1080/01421590310001002836) | Argues the OSCE's celebrated objectivity was bought by fragmenting performance into discrete stations, which quietly changes what "competence" is taken to mean. | Theory |
+| Hodges. Assessment in the post-psychometric era… *Med Teach.* 2013 | [doi](https://doi.org/10.3109/0142159X.2013.789134) | The constructive turn — rehabilitate expert judgement and narrative rather than chase psychometric objectivity. | Theory |
+| Yeates et al. A realist evaluation of OSCE authenticity. *Med Teach.* 2025 | [doi](https://doi.org/10.1080/0142159X.2024.2339413) | Realist evaluation: OSCE authenticity is conditional on design features (whole cases, time, autonomy, minimal interruption), not intrinsic to the format. | Evidence |
 | Hyde, Boursicot et al. OSCE rater cognition — multi-centre study. *BMC Med Educ.* 2022 | [doi](https://doi.org/10.1186/s12909-021-03077-w) | Multi-centre think-aloud study: examiners build idiosyncratic personal theories of performance, so the OSCE's "objectivity" is overstated | Evidence |
 | Yeates et al. Contrast and sequence effects in OSCEs. *Med Educ.* 2022 (and 2015) | [doi](https://doi.org/10.1111/medu.14713) | Examiners' scores are biased by contrast effects (the standard set by preceding candidates) and drift over time — and these can flip pass/fail decisions | Evidence |
 | Gingerich, Kogan et al. Assessor cognition from three perspectives. *Med Educ.* 2014 | [doi](https://doi.org/10.1111/medu.12546) | Reframes rater "error" as legitimate, systematic *social judgement* — implying true OSCE objectivity is unattainable, and legitimising judgement-based assessment | Theory |
@@ -157,18 +109,7 @@ the trainee/assessor experience and the burden it creates are developed in §6.)
 
 ## 6. Burden of Assessment
 
-A first-order design constraint and an explicit accreditation requirement: **AMC Standard 5,
-Condition 23** directs the College to "systematically review the breadth of assessment methods with
-a view to reducing the **burden of assessment** on trainees and their supervisors." Burden is both
-*quantitative* (time, opportunity cost) and *qualitative* (how trainees and assessors experience
-it); Ott's **Self-Determination Theory** lens (threats to autonomy, relatedness, competence) is the
-framework RANZCP has adopted to *measure* it, and Pearce's framing reminds us the goal is to
-optimise *worthwhile* burden, not eliminate burden per se. The trainee-perspective evidence (largely
-Canadian CBME) is consistent: programmatic/EPA assessment can be experienced as surveillance, can
-tip into "tick-box" and "gaming," and can crowd out learning — *unless* feedback is genuinely
-coaching, supervisors are proactive, and the volume of data points is designed for value, not
-documentation. *Design implication: fewer, better, developmental assessments; assessor literacy and
-faculty development (§8); and reframe early CPD as continued formation (§12).*
+A first-order design constraint and an explicit accreditation requirement: **AMC Standard 5, Condition 23** directs the College to "systematically review the breadth of assessment methods with a view to reducing the **burden of assessment** on trainees and their supervisors." Burden is both *quantitative* (time, opportunity cost) and *qualitative* (how trainees and assessors experience it); Ott's **Self-Determination Theory** lens (threats to autonomy, relatedness, competence) is the framework RANZCP has adopted to *measure* it, and Pearce's framing reminds us the goal is to optimise *worthwhile* burden, not eliminate burden per se. The trainee-perspective evidence (largely Canadian CBME) is consistent: programmatic/EPA assessment can be experienced as surveillance, can tip into "tick-box" and "gaming," and can crowd out learning — *unless* feedback is genuinely coaching, supervisors are proactive, and the volume of data points is designed for value, not documentation. *Design implication: fewer, better, developmental assessments; assessor literacy and faculty development (§8); and reframe early CPD as continued formation (§12).*
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
@@ -193,11 +134,7 @@ faculty development (§8); and reframe early CPD as continued formation (§12).*
 
 ## 7. Feedback
 
-Workplace-based assessment and entrustment are only as good as the feedback around them. The
-classic principles (Ende), the dominant model (Hattie & Timperley), a clarified definition (van
-de Ridder), and a relationship-centred coaching model (R2C2) together argue for reframing the
-CCPR's data as *coaching for growth* — which is also the practical antidote to the
-assessment-as-surveillance risk in §6.
+Workplace-based assessment and entrustment are only as good as the feedback around them. The classic principles (Ende), the dominant model (Hattie & Timperley), a clarified definition (van de Ridder), and a relationship-centred coaching model (R2C2) together argue for reframing the CCPR's data as *coaching for growth* — which is also the practical antidote to the assessment-as-surveillance risk in §6.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
@@ -210,12 +147,7 @@ assessment-as-surveillance risk in §6.
 
 ## 8. Supervisors / Faculty Development
 
-The highest-leverage, most-neglected investment in any CBME rollout. A programmatic,
-judgement-based system asks far more of supervisors than a checklist OSCE did — and the evidence
-(Steinert's two BEME reviews) says deliberate faculty development is what makes WBA, feedback and
-entrustment actually work. Kilminster defines effective supervision (the relationship is the key
-variable); Harden & Crosby map the full range of teacher roles to develop; Dreyfus gives
-supervisors a shared novice→expert language.
+The highest-leverage, most-neglected investment in any CBME rollout. A programmatic, judgement-based system asks far more of supervisors than a checklist OSCE did — and the evidence (Steinert's two BEME reviews) says deliberate faculty development is what makes WBA, feedback and entrustment actually work. Kilminster defines effective supervision (the relationship is the key variable); Harden & Crosby map the full range of teacher roles to develop; Dreyfus gives supervisors a shared novice→expert language.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
@@ -229,13 +161,7 @@ supervisors a shared novice→expert language.
 
 ## 9. Professional Identity & Reflective Practice
 
-The distinctively psychiatric strand: the clinician's *self* is the instrument. Identity formation
-is therefore the core curriculum, not a soft adjunct. Cruess reframes training around *becoming* a
-psychiatrist and adds an "is/identity" apex to Miller's pyramid — directly licensing the CCPR to
-evidence identity over time (reflective writing, supervisor narratives, the psychotherapy case).
-Schön's *Educating the Reflective Practitioner* (1987) turns reflection into a theory of
-professional education that maps onto psychiatry's supervision model. Balint is psychiatry's
-signature pedagogy for the doctor–patient relationship.
+The distinctively psychiatric strand: the clinician's *self* is the instrument. Identity formation is therefore the core curriculum, not a soft adjunct. Cruess reframes training around *becoming* a psychiatrist and adds an "is/identity" apex to Miller's pyramid — directly licensing the CCPR to evidence identity over time (reflective writing, supervisor narratives, the psychotherapy case). Schön's *Educating the Reflective Practitioner* (1987) turns reflection into a theory of professional education that maps onto psychiatry's supervision model. Balint is psychiatry's signature pedagogy for the doctor–patient relationship.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
@@ -254,13 +180,7 @@ signature pedagogy for the doctor–patient relationship.
 
 ## 10. Equity & Cultural Safety
 
-The AMC's cultural-safety conditions drove this redesign, and the assessment literature gives the
-equity case real teeth. The OSCE carries documented differential-attainment risk (Woolf; Esmail &
-Roberts; Patterson) — acute for a College with many international medical graduates — which
-strengthens the case for the assessment shift *and* demands that the new system build in safeguards
-the OSCE lacked: examiner calibration, bias-aware assessor training, and monitoring of differential
-attainment by IMG status / ethnicity / first language. Cultural safety also belongs in curriculum
-content, not just assessment (§10a).
+The AMC's cultural-safety conditions drove this redesign, and the assessment literature gives the equity case real teeth. The OSCE carries documented differential-attainment risk (Woolf; Esmail & Roberts; Patterson) — acute for a College with many international medical graduates — which strengthens the case for the assessment shift *and* demands that the new system build in safeguards the OSCE lacked: examiner calibration, bias-aware assessor training, and monitoring of differential attainment by IMG status / ethnicity / first language. Cultural safety also belongs in curriculum content, not just assessment (§10a).
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
@@ -273,24 +193,9 @@ content, not just assessment (§10a).
 
 ### 10a. First Nations mental health — models of wellbeing, traditional practice & cultural safety
 
-The AMC condition asks the *curriculum* — not just the assessment — to embed cultural safety. That
-means teaching Indigenous **models of wellbeing**, which are holistic and collective rather than
-the individual biomedical construct, and engaging respectfully with **traditional healing**. The
-canonical Aboriginal and Torres Strait Islander frame is **Social and Emotional Wellbeing (SEWB)**;
-the canonical Māori frames are **Te Whare Tapa Whā** and **cultural safety / Kawa Whakaruruhau**
-(which is itself the origin of the term the AMC uses). *(Author names — including the Indigenous
-scholars — are verified.)*
+The AMC condition asks the *curriculum* — not just the assessment — to embed cultural safety. That means teaching Indigenous **models of wellbeing**, which are holistic and collective rather than the individual biomedical construct, and engaging respectfully with **traditional healing**. The canonical Aboriginal and Torres Strait Islander frame is **Social and Emotional Wellbeing (SEWB)**; the canonical Māori frames are **Te Whare Tapa Whā** and **cultural safety / Kawa Whakaruruhau** (which is itself the origin of the term the AMC uses). *(Author names — including the Indigenous scholars — are verified.)*
 
-> **Note — review and authority.** This reference list was assembled from the published literature
-> and should **not** be treated as a finished curriculum statement. Before it informs the redesign,
-> the First Nations content — its selection, framing and emphasis — should be **reviewed and led by
-> Aboriginal and Torres Strait Islander and by Māori mental-health colleagues** (e.g. through the
-> relevant RANZCP committees, Aboriginal and Torres Strait Islander and Māori mental-health
-> leadership, and community/Elder guidance). This is both an accuracy safeguard and a matter of
-> **appropriate authority over how Indigenous knowledge and wellbeing are represented** — consistent
-> with self-determination and the principle of "nothing about us without us." Where traditional
-> healing (ngangkari, rongoā, Mahi a Atua) is taught, it must be done with, and on the terms of, the
-> relevant knowledge-holders, not extracted as content.
+> **Note — review and authority.** This reference list was assembled from the published literature and should **not** be treated as a finished curriculum statement. Before it informs the redesign, the First Nations content — its selection, framing and emphasis — should be **reviewed and led by Aboriginal and Torres Strait Islander and by Māori mental-health colleagues** (e.g. through the relevant RANZCP committees, Aboriginal and Torres Strait Islander and Māori mental-health leadership, and community/Elder guidance). This is both an accuracy safeguard and a matter of **appropriate authority over how Indigenous knowledge and wellbeing are represented** — consistent with self-determination and the principle of "nothing about us without us." Where traditional healing (ngangkari, rongoā, Mahi a Atua) is taught, it must be done with, and on the terms of, the relevant knowledge-holders, not extracted as content.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
@@ -315,12 +220,7 @@ scholars — are verified.)*
 
 ## 11. Program Evaluation
 
-Design the evaluation in from the start (Kern's Step 6). Kirkpatrick (with the Barr/Hammick
-medical-education adaptation) gives the outcomes framework; CIPP offers a decision-oriented
-alternative suited to continuous improvement; Cook & Beckman is the standard for validating the
-program's own assessment tools — which RANZCP should do, to answer critics like Amos et al. with
-its *own* evidence rather than assertion. Van Melle's Core Components Framework (§1) doubles as the
-implementation-fidelity yardstick.
+Design the evaluation in from the start (Kern's Step 6). Kirkpatrick (with the Barr/Hammick medical-education adaptation) gives the outcomes framework; CIPP offers a decision-oriented alternative suited to continuous improvement; Cook & Beckman is the standard for validating the program's own assessment tools — which RANZCP should do, to answer critics like Amos et al. with its *own* evidence rather than assertion. Van Melle's Core Components Framework (§1) doubles as the implementation-fidelity yardstick.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
@@ -334,19 +234,7 @@ implementation-fidelity yardstick.
 
 ## 12. The Training-to-Practice Continuum (Transition to Practice & Early-Career Consolidation)
 
-Fellowship marks **competence, not maturity** — and a substantial literature argues training
-should not stop there. The years immediately after qualification are a distinct, high-stakes,
-formative phase in which the new specialist consolidates toward genuinely independent, expert
-practice. The strongest structural precedent is the Royal College of Canada's **Competence by
-Design**, whose four-stage continuum *ends* in a designed **"Transition to Practice"** stage. The
-transition literature (Westerman & Teunissen; Kilminster) shows new consultants feel clinically
-prepared but underprepared for the *non-clinical* demands of autonomy and are at real burnout risk;
-"preparedness is not enough." For psychiatry this is also identity-and-belonging work. *Design
-implication: RANZCP's Stage 3 "Advanced" and Certificate of Advanced Training partly address this,
-but the evidence supports an explicit, supported **Transition to Practice / early-career phase** —
-tapering entrustment, defined early-career capabilities, structured mentoring/preceptorship, and
-reframing the first CPD years as continued formation.* This connects to §8 (faculty development),
-§9 (identity formation continues), and the entrustment logic of the CCPR.
+Fellowship marks **competence, not maturity** — and a substantial literature argues training should not stop there. The years immediately after qualification are a distinct, high-stakes, formative phase in which the new specialist consolidates toward genuinely independent, expert practice. The strongest structural precedent is the Royal College of Canada's **Competence by Design**, whose four-stage continuum *ends* in a designed **"Transition to Practice"** stage. The transition literature (Westerman & Teunissen; Kilminster) shows new consultants feel clinically prepared but underprepared for the *non-clinical* demands of autonomy and are at real burnout risk; "preparedness is not enough." For psychiatry this is also identity-and-belonging work. *Design implication: RANZCP's Stage 3 "Advanced" and Certificate of Advanced Training partly address this, but the evidence supports an explicit, supported Transition to Practice / early-career phase — tapering entrustment, defined early-career capabilities, structured mentoring/preceptorship, and reframing the first CPD years as continued formation.* This connects to §8 (faculty development), §9 (identity formation continues), and the entrustment logic of the CCPR.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
@@ -365,42 +253,50 @@ reframing the first CPD years as continued formation.* This connects to §8 (fac
 
 ---
 
+## 13. Assessment Review Panels
+
+Assessment review panels — variously called clinical competency committees (CCCs) or progress committees, and in the RANZCP system the **Portfolio Review Panel** and **Portfolio Review Oversight Panel (PROP)** — are the bodies that synthesise the many workplace-based assessment and EPA data points into a single defensible, fair progression or entrustment decision. They are the human engine of programmatic assessment and the decision-making heart of the CCPR. The literature is clear that these panels are *interpretive and judgement-based, not mechanical aggregators*: they construct meaning from the evidence, so their quality depends on group-decision process, calibration, management of conflict and bias, explicit narrative reasoning, and demonstrable defensibility. *Design implication: invest in panel composition, training and calibration; require documented narrative reasoning; build in procedural fairness (transparency, audit trails, firewalling/conflict management, a "second-look" oversight tier); and treat well-supported panel judgement as legitimate signal — links to §5 (Assessment), §6 (Burden of Assessment) and §8 (Faculty Development).*
+
+| Reference | Link | What it tells us | Category |
+|---|---|---|---|
+| Hauer et al. Ensuring resident competence: a narrative review of group decision making to inform clinical competency committees. *J Grad Med Educ.* 2016 | [doi](https://doi.org/10.4300/JGME-D-15-00144.1) | The anchor narrative review: how review committees should make defensible group decisions from assessment data. | Theory |
+| Hauer et al. Reviewing residents' competence: a qualitative study of the role of clinical competency committees. *Acad Med.* 2015 | [doi](https://doi.org/10.1097/ACM.0000000000000736) | How competency committees actually work — synthesising evidence and managing incomplete data and member disagreement. | Evidence |
+| Pack et al. Some assembly required: tracing the interpretative work of clinical competency committees. *Med Educ.* 2019 | [doi](https://doi.org/10.1111/medu.13884) | Panels *construct* performance from the evidence rather than simply reading it — interpretation is unavoidable, so design for it. | Evidence |
+| Kinnear, Warm, Hauer. Twelve tips to maximize the value of a clinical competency committee in postgraduate medical education. *Med Teach.* 2018 | [doi](https://doi.org/10.1080/0142159X.2018.1474191) | Practical design guidance for running effective competency committees. | Theory |
+| ten Cate & Regehr. The power of subjectivity in the assessment of medical trainees. *Acad Med.* 2019 | [doi](https://doi.org/10.1097/ACM.0000000000002495) | Why legitimate, well-supported group judgement is a strength of panel assessment, not a threat to rigour. | Theory |
+| Valentine & Schuwirth. Identifying the narrative used by educators in articulating judgement of performance. *Perspect Med Educ.* 2019 | [doi](https://doi.org/10.1007/s40037-019-0500-y) | The narrative basis of panel judgements — and how to make that reasoning explicit and defensible. | Evidence |
+| Driessen et al. The use of qualitative research criteria for portfolio assessment as an alternative to reliability evaluation. *Med Educ.* 2005 | [doi](https://doi.org/10.1111/j.1365-2929.2004.02059.x) | How to make portfolio-panel decisions trustworthy without psychometric reliability — credibility, dependability and audit trails. | Theory |
+| Zoanetti & Pearce. The potential use of Bayesian Networks to support committee decisions in programmatic assessment. *Med Educ.* 2021 | [doi](https://doi.org/10.1111/medu.14407) | ACER authors: Bayesian methods can add consistency and a layer of defensibility to progression-committee decisions — directly RANZCP-relevant. | Theory |
+| RANZCP Portfolio Review Panel & Portfolio Review Oversight Panel (PROP) — the CCPR decision tier | [internal-reports](./internal-reports/) | The College's existing firewalled review-panel mechanism (de-identified portfolios; two-person review plus a four-person oversight panel), described in the Schuwirth AAP review. | RANZCP internal |
+
+---
+
 ## Cross-cutting note
 
 Four themes recur across sections and are worth tracking as the redesign proceeds:
-1. **From objectivity to trustworthiness** — the assessment evidence (§5, §10) has moved from
-   "is it objective?" to "is the *programme* trustworthy?"; the CCPR is on the right side of this.
-2. **Judgement as signal, not noise** — examiner subjectivity (§5), expert narrative (§9) and
-   programmatic assessment (§5) all rest on *legitimised expert judgement* — which raises the
-   stakes for faculty development (§8) and assessor literacy (§6).
-3. **Equity by design** (§10) — the differential-attainment evidence must shape assessment,
-   faculty training and curriculum content, in line with the AMC conditions.
-4. **Training as a continuum, not an endpoint** (§12) — competence at Fellowship is not maturity;
-   the evidence supports a supported Transition to Practice / early-career phase rather than
-   treating qualification as the finish line.
 
-*Verification: citations checked against PubMed/publisher records via a multi-source research
-pass; residual page/author checks are flagged inline as (confirm).*
+1.  **From objectivity to trustworthiness** — the assessment evidence (§5, §10) has moved from
+"is it objective?" to "is the *programme* trustworthy?"; the CCPR is on the right side of this.
+
+2.  **Judgement as signal, not noise** — examiner subjectivity (§5), expert narrative (§9) and
+programmatic assessment (§5) all rest on *legitimised expert judgement* — which raises the stakes for faculty development (§8) and assessor literacy (§6).
+
+3.  **Equity by design** (§10) — the differential-attainment evidence must shape assessment,
+faculty training and curriculum content, in line with the AMC conditions.
+
+4.  **Training as a continuum, not an endpoint** (§12) — competence at Fellowship is not maturity;
+the evidence supports a supported Transition to Practice / early-career phase rather than treating qualification as the finish line.
+
+*Verification: citations checked against PubMed/publisher records via a multi-source research pass; residual page/author checks are flagged inline as (confirm).*
 
 ---
 
 ## AI use statement
 
-This document was prepared with the assistance of generative artificial intelligence (Anthropic's
-Claude). AI was used to identify, summarise and organise the medical-education and educational
-literature, to draft the section narratives and reference tables, and to format the document.
+This document was prepared with the assistance of generative artificial intelligence (Anthropic's Claude). AI was used to identify, summarise and organise the medical-education and educational literature, to draft the section narratives and reference tables, and to format the document.
 
-Citations were checked against PubMed and publisher records through structured, multi-source web
-searches. Where the AI's initial recollection of a reference was inaccurate it was corrected during
-this process, and residual uncertainties are flagged inline (e.g. "(confirm)"). Nonetheless, AI can
-make errors or omissions: the AI did not independently appraise the clinical or educational claims
-of the underlying sources, and the selection and framing of references involve editorial judgements
-that should be reviewed by the responsible authors/committee before the document is relied upon.
-This is a working evidence compilation, not a peer-reviewed publication.
+Citations were checked against PubMed and publisher records through structured, multi-source web searches. Where the AI's initial recollection of a reference was inaccurate it was corrected during this process, and residual uncertainties are flagged inline (e.g. "(confirm)"). Nonetheless, AI can make errors or omissions: the AI did not independently appraise the clinical or educational claims of the underlying sources, and the selection and framing of references involve editorial judgements that should be reviewed by the responsible authors/committee before the document is relied upon. This is a working evidence compilation, not a peer-reviewed publication.
 
-The First Nations mental-health material (§10a) must additionally be reviewed and led by Aboriginal
-and Torres Strait Islander and by Māori mental-health colleagues and knowledge-holders before use,
-as set out in the note within that section.
+The First Nations mental-health material (§10a) must additionally be reviewed and led by Aboriginal and Torres Strait Islander and by Māori mental-health colleagues and knowledge-holders before use, as set out in the note within that section.
 
-*Prepared 16 June 2026. Responsible author/owner: __________________ . AI tool: Anthropic Claude
-(via Claude Code).*
+*Prepared 16 June 2026. Responsible author/owner: __________________ . AI tool: Anthropic Claude (via Claude Code).*
