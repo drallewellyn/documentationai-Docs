@@ -1,5 +1,7 @@
 # RANZCP Psychiatry Training Redesign — Sectioned Evidence Report
 
+**Version 5.0 — 16 June 2026**
+
 *A synthesis of the medical-education and educational literature informing the redesign, organised by design domain. Each section opens with a short narrative on how the references bear on the redesign, followed by a reference table.*
 
 ### How to read the tables
@@ -301,4 +303,4 @@ Citations were checked against PubMed and publisher records through structured, 
 
 The First Nations mental-health material (§10a) must additionally be reviewed and led by Aboriginal and Torres Strait Islander and by Māori mental-health colleagues and knowledge-holders before use, as set out in the note within that section.
 
-*Prepared 16 June 2026. Responsible author/owner: __________________ . AI tool: Anthropic Claude (via Claude Code).*
+*Version 5.0 — prepared 16 June 2026. Responsible author/owner: __________________ . AI tool: Anthropic Claude (via Claude Code).*
