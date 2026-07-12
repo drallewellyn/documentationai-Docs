@@ -5,4 +5,6 @@ node_modules/
 *.log
 .review-seed/
 _kb-import-nav.json.bak
-psychiatry-education-redesign/build/
+psychiatry-education-redesign/build/*.docx
+psychiatry-education-redesign/build/*.pdf
+psychiatry-education-redesign/build/*.html
