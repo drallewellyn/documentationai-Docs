@@ -1,6 +1,6 @@
 # RANZCP Psychiatry Training Redesign — Sectioned Evidence Report
 
-**Version 5.0 — 17 June 2026**
+**Version 6.0 — 17 June 2026**
 
 *A synthesis of the medical-education and educational literature informing the redesign, organised by design domain. Each section opens with a short narrative on how the references bear on the redesign, followed by a reference table.*
 
@@ -114,7 +114,7 @@ The most consequential — and most contested — domain. The College has previo
 
 ## 6. Burden of Assessment
 
-A first-order design constraint and an explicit accreditation requirement: **AMC Standard 5, Condition 23** directs the College to "systematically review the breadth of assessment methods with a view to reducing the **burden of assessment** on trainees and their supervisors." Burden is both *quantitative* (time, opportunity cost) and *qualitative* (how trainees and assessors experience it); Ott's **Self-Determination Theory** lens (threats to autonomy, relatedness, competence) is the framework RANZCP has adopted to *measure* it, and Pearce's framing reminds us the goal is to optimise *worthwhile* burden, not eliminate burden per se. The trainee-perspective evidence (largely Canadian CBME) is consistent: programmatic/EPA assessment can be experienced as surveillance, can tip into "tick-box" and "gaming," and can crowd out learning — *unless* feedback is genuinely coaching, supervisors are proactive, and the volume of data points is designed for value, not documentation. *Design implication: fewer, better, developmental assessments; assessor literacy and faculty development (§8); and reframe early CPD as continued formation (§12).*
+A first-order design constraint and an explicit accreditation requirement: **AMC Standard 5, Condition 23** directs the College to "systematically review the breadth of assessment methods with a view to reducing the **burden of assessment** on trainees and their supervisors." Burden is both *quantitative* (time, opportunity cost) and *qualitative* (how trainees and assessors experience it); Ott's **Self-Determination Theory** lens (threats to autonomy, relatedness, competence) is the framework RANZCP has adopted to *measure* it, and Pearce's framing reminds us the goal is to optimise *worthwhile* burden, not eliminate burden per se. The trainee-perspective evidence (largely Canadian CBME) is consistent: programmatic/EPA assessment can be experienced as surveillance, can tip into "tick-box" and "gaming," and can crowd out learning — *unless* feedback is genuinely coaching, supervisors are proactive, and the volume of data points is designed for value, not documentation. *Design implication: fewer, better, developmental assessments; assessor literacy and faculty development (§8); and reframe early CPD as continued formation (§13).*
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
@@ -160,70 +160,60 @@ The highest-leverage, most-neglected investment in any CBME rollout. A programma
 | Steinert et al. Faculty development — 10-year update: BEME Guide No. 40. *Med Teach.* 2016 | [doi](https://doi.org/10.1080/0142159X.2016.1181851) | The ten-year update confirming and extending the evidence on what makes faculty development work | Evidence |
 | Dreyfus. The five-stage model of adult skill acquisition. *Bull Sci Technol Soc.* 2004 | [doi](https://doi.org/10.1177/0270467604264992) | The novice → advanced beginner → competent → proficient → expert progression — the shared language underpinning Milestones and entrustment levels | Theory |
 
-**** REVIEWED DOWN TO HERE SO FAR *****
-
 ---
 
 ## 9. Professional Identity & Reflective Practice
 
-The distinctively psychiatric strand: the clinician's *self* is the instrument. Identity formation is therefore the core curriculum, not a soft adjunct. Cruess reframes training around *becoming* a psychiatrist and adds an "is/identity" apex to Miller's pyramid — directly licensing the CCPR to evidence identity over time (reflective writing, supervisor narratives, the psychotherapy case). Schön's *Educating the Reflective Practitioner* (1987) turns reflection into a theory of professional education that maps onto psychiatry's supervision model. Balint is psychiatry's signature pedagogy for the doctor–patient relationship.
+The distinctively psychiatric strand: the clinician's *self* is the instrument. Identity formation is therefore the core curriculum, not a soft adjunct. Cruess reframes training around *becoming* a psychiatrist and adds an "is/identity" apex to Miller's pyramid. Schön's *Educating the Reflective Practitioner* (1987) turns reflection into a theory of professional education that maps onto psychiatry's supervision model. Balint allows psychiatry to processpr the doctor–patient relationship.
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
 | Cruess et al. Reframing medical education to support professional identity formation. *Acad Med.* 2014 | [doi](https://doi.org/10.1097/ACM.0000000000000427) | Reframes the goal from teaching professionalism-as-behaviour to supporting *professional identity formation* — becoming a clinician; central to psychiatry's "use of self" | Theory |
-| Cruess et al. A schematic representation of PIF and socialization. *Acad Med.* 2015 | [doi](https://doi.org/10.1097/ACM.0000000000000700) | A practical model of how identity forms through socialisation into communities of practice | Theory |
 | Cruess, Cruess, Steinert. Amending Miller's pyramid to include PIF. *Acad Med.* 2016 | [doi](https://doi.org/10.1097/ACM.0000000000000913) | Adds an "is/identity" apex above Miller's "does", licensing assessment of *who the trainee is becoming* | Theory |
-| Cruess, Cruess, Steinert (eds). *Teaching Medical Professionalism.* 2nd ed; 2016 | ISBN 978-1-107-49524-1 | The standard edited reference on supporting professional identity formation | Theory |
-| Cruess & Cruess. Professionalism must be taught. *BMJ.* 1997 | [doi](https://doi.org/10.1136/bmj.315.7123.1674) | The foundational argument that professionalism can and must be explicitly taught (BMJ 1997 — distinct from the Lancet 2000 piece) | Theory |
 | Schön. *The Reflective Practitioner.* Basic Books; 1983 | ISBN 978-0465068784 | Introduces reflection-in-action and reflection-on-action, and the "swampy lowlands" of messy real practice versus the "high ground" of technical rationality | Theory |
 | Schön. *Educating the Reflective Practitioner.* Jossey-Bass; 1987 | ISBN 978-1555422202 | The sequel and the more useful text for design — turns reflection into a theory of professional education (the "reflective practicum") | Theory |
 | Kolb. *Experiential Learning.* 2nd ed; 2015 (1st ed. 1984) | ISBN 978-0133892406 | The experiential learning cycle (experience → reflection → conceptualisation → experimentation) underpinning supervised practice | Theory |
 | Mann, Gordon, MacLeod. Reflection and reflective practice: systematic review. *Adv Health Sci Educ.* 2009 | [doi](https://doi.org/10.1007/s10459-007-9090-2) | Systematic review: reflection can be taught and matters, but the evidence is uneven — so design reflective practice purposefully | Evidence |
-| Graham, Gask et al. Balint-style case discussion groups in psychiatric training. *Acad Psychiatry.* 2009 | [doi](https://doi.org/10.1176/appi.ap.33.3.198) | Psychiatry-specific evaluation of Balint groups for processing the doctor–patient relationship and countertransference (*Academic Psychiatry*, not *Psychiatric Bulletin*) | Evidence |
+| Graham, Gask et al. Balint-style case discussion groups in psychiatric training. *Acad Psychiatry.* 2009 | [doi](https://doi.org/10.1176/appi.ap.33.3.198) | Psychiatry-specific evaluation of Balint groups for processing the doctor–patient relationship and countertransference. | Evidence |
 
 ---
 
 ## 10. Equity & Cultural Safety
 
-The AMC's cultural-safety conditions drove this redesign, and the assessment literature gives the equity case real teeth. The OSCE carries documented differential-attainment risk (Woolf; Esmail & Roberts; Patterson) — acute for a College with many international medical graduates — which strengthens the case for the assessment shift *and* demands that the new system build in safeguards the OSCE lacked: examiner calibration, bias-aware assessor training, and monitoring of differential attainment by IMG status / ethnicity / first language. Cultural safety also belongs in curriculum content, not just assessment (§10a).
+The AMC's cultural-safety conditions influence this redesign, and the assessment literature gives the equity case real teeth. The OSCE carries documented differential-attainment risk (Woolf; Esmail & Roberts; Patterson) — a concern for a College with many international medical graduates — which strengthens the case for the assessment shift *and* demands that the new system build in safeguards: examiner calibration, bias-aware assessor training, and monitoring of differential attainment by IMG status / ethnicity / first language. Cultural safety also belongs in curriculum content, not just assessment (§11).
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
 | Woolf, Potts, McManus. Ethnicity and academic performance in UK doctors/students: meta-analysis. *BMJ.* 2011 | [doi](https://doi.org/10.1136/bmj.d901) | Meta-analysis (23,742 candidates): consistent underperformance of non-white candidates (d≈0.42), comparable across machine-marked and examiner-based assessments | Evidence |
 | Esmail & Roberts. Ethnic minority performance & discrimination in the MRCGP. *BMJ.* 2013 | [doi](https://doi.org/10.1136/bmj.f5662) | The GMC-commissioned analysis behind the BAPIO judicial review: subjective examiner bias in the face-to-face clinical exam may contribute to higher failure among BME UK graduates and IMGs | Evidence |
-| Patterson et al. Unpacking the dark variance of differential attainment in overseas graduates. *Med Educ.* 2018 | [doi](https://doi.org/10.1111/medu.13605) *(confirm pages)* | Differential attainment is multifactorial ("dark variance"), but exam design and acculturation interact to disadvantage international medical graduates | Evidence |
-| Reay, Maguire, Looi. A level playing field? Virtual OSCE in Psychiatry & Addiction Medicine. *Australas Psychiatry.* 2024 | [doi](https://doi.org/10.1177/10398562241249567) *(confirm pages)* | RANZCP-relevant mixed-methods evaluation of the equity and fairness of the virtual psychiatry OSCE | Evidence |
+| Patterson et al. Unpacking the dark variance of differential attainment in overseas graduates. *Med Educ.* 2018 | [doi](https://doi.org/10.1111/medu.13605) | Differential attainment is multifactorial ("dark variance"), but exam design and acculturation interact to disadvantage international medical graduates | Evidence |
 | AMC. *Standards for Assessment and Accreditation of Specialist Medical Programs.* 2023 — incl. cultural safety; Standard 5 *(cross-ref §1)* | [amc.org.au (PDF)](https://www.amc.org.au/wp-content/uploads/2023/08/Standards-for-Assessment-and-Accreditation-of-Specialist-Medical-Programs-by-the-Australian-Medical-Council-2023-secured.pdf) | The accreditation standards' cultural-safety requirements — a key driver of the equity work in this section | Regulatory/AMC |
-| RANZCP cultural safety / Aboriginal, Torres Strait Islander & Māori mental health | [ranzcp.org](https://www.ranzcp.org/clinical-guidelines-publications/cultural-safety) | The College's cultural-safety commitments and the new Aboriginal, Torres Strait Islander and Māori mental-health role | RANZCP internal |
 
-### 10a. First Nations mental health — models of wellbeing, traditional practice & cultural safety
+---
 
-The AMC condition asks the *curriculum* — not just the assessment — to embed cultural safety. That means teaching Indigenous **models of wellbeing**, which are holistic and collective rather than the individual biomedical construct, and engaging respectfully with **traditional healing**. The canonical Aboriginal and Torres Strait Islander frame is **Social and Emotional Wellbeing (SEWB)**; the canonical Māori frames are **Te Whare Tapa Whā** and **cultural safety / Kawa Whakaruruhau** (which is itself the origin of the term the AMC uses). *(Author names — including the Indigenous scholars — are verified.)*
+## 11. First Nations mental health — models of wellbeing, traditional practice & cultural safety
 
-> **Note — review and authority.** This reference list was assembled from the published literature and should **not** be treated as a finished curriculum statement. Before it informs the redesign, the First Nations content — its selection, framing and emphasis — should be **reviewed and led by Aboriginal and Torres Strait Islander and by Māori mental-health colleagues** (e.g. through the relevant RANZCP committees, Aboriginal and Torres Strait Islander and Māori mental-health leadership, and community/Elder guidance). This is both an accuracy safeguard and a matter of **appropriate authority over how Indigenous knowledge and wellbeing are represented** — consistent with self-determination and the principle of "nothing about us without us." Where traditional healing (ngangkari, rongoā, Mahi a Atua) is taught, it must be done with, and on the terms of, the relevant knowledge-holders, not extracted as content.
+The AMC condition asks the *curriculum* — not just the assessment — to embed cultural safety. That means teaching Indigenous **models of wellbeing**, which are holistic and collective rather than the individual biomedical construct, and engaging respectfully with **traditional healing**. The canonical Aboriginal and Torres Strait Islander frame is **Social and Emotional Wellbeing (SEWB)**; the canonical Māori frames are **Te Whare Tapa Whā** and **cultural safety / Kawa Whakaruruhau** (which is itself the origin of the term the AMC uses).
 
 | Reference | Link | What it tells us | Category |
 |---|---|---|---|
-| Dudgeon, Milroy & Walker (eds). *Working Together: Aboriginal and Torres Strait Islander Mental Health and Wellbeing Principles and Practice.* 2nd ed; 2014 | open access (Telethon Kids) | The definitive edited reference text on Aboriginal and Torres Strait Islander mental health and wellbeing | Theory |
-| Gee, Dudgeon, Schultz, Hart & Kelly. Aboriginal and Torres Strait Islander social and emotional wellbeing. In *Working Together* (Ch. 4, pp. 55–68); 2014 | open access | The **SEWB model** — wellbeing as connection to self, body, mind/emotions, family & kinship, community, culture, **Country** and spirituality; the core conceptual frame for Indigenous mental health | Theory |
-| Swan & Raphael. *Ways Forward: National Aboriginal and Torres Strait Islander Mental Health Policy National Consultancy Report.* AGPS; 1995 | national report | The landmark report — first systematic articulation of holistic need and self-determination in service design | Evidence |
+| Dudgeon, Milroy & Walker (eds). *Working Together: Aboriginal and Torres Strait Islander Mental Health and Wellbeing Principles and Practice.* 2nd ed; 2014 | [www.thekids.org.au](https://www.thekids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/working-together-aboriginal-and-wellbeing-2014.pdf) open access (Telethon Kids) | The definitive edited reference text on Aboriginal and Torres Strait Islander mental health and wellbeing | Theory |
+| Gee, Dudgeon, Schultz, Hart & Kelly. Aboriginal and Torres Strait Islander social and emotional wellbeing. In *Working Together* (Ch. 4, pp. 55–68); 2014 | [www.thekids.org.au](https://www.thekids.org.au/globalassets/media/documents/aboriginal-health/working-together-second-edition/wt-part-1-chapt-4-final.pdf) open access | The **SEWB model** — wellbeing as connection to self, body, mind/emotions, family & kinship, community, culture, **Country** and spirituality; the core conceptual frame for Indigenous mental health | Theory |
 | Commonwealth of Australia. *National Strategic Framework for Aboriginal and Torres Strait Islander Peoples' Mental Health and SEWB 2017–2023*; 2017 | [niaa.gov.au](https://www.niaa.gov.au) | The national policy framework (co-chairs Dudgeon & Calma) the curriculum should align to | Theory |
 | Dudgeon & Walker. Decolonising Australian psychology: discourses, strategies, and practice. *J Soc Polit Psychol.* 2015;3(1):276–297 | [doi](https://doi.org/10.5964/jspp.v3i1.126) | The decolonising-practice argument for Australian mental health (open access) | Theory |
 | NPY Women's Council. *Traditional Healers of Central Australia: Ngangkari.* Magabala Books; 2013 | ISBN 9781921248825 | Primary-source, ngangkari-authored account of Anangu (Western Desert) traditional healing | Theory |
 | Janca & Bullen. The Aboriginal concept of time and its mental health implications. *Australas Psychiatry.* 2003;11(Suppl 1):S40–S44 | [doi](https://doi.org/10.1046/j.1038-5282.2003.02009.x) | How a circular (vs linear) concept of time bears on culturally appropriate psychiatric assessment | Theory |
-| Vicary & Westerman. 'That's just the way he is': implications of Aboriginal mental health beliefs. *Aust e-J Adv Ment Health.* 2004;3(3):103–112 | [doi](https://doi.org/10.5172/jamh.3.3.103) | Qualitative study of Aboriginal conceptualisations of distress and barriers to help-seeking | Evidence |
 | Durie. *Whaiora: Māori Health Development.* OUP; 1994 (2nd ed. 1998) | ISBN 978-0195583175 | **Te Whare Tapa Whā** — the four-sided house: taha tinana (physical), taha hinengaro (mental/emotional), taha wairua (spiritual), taha whānau (family/social); the cornerstone Māori health model | Theory |
 | Durie. Te Pae Mahutonga: a model for Māori health promotion. *Health Promotion Forum NZ Newsletter.* 1999;49:2–5 | report | A Māori health-promotion model framed on the Southern Cross constellation | Theory |
 | Ramsden. *Cultural Safety and Nursing Education in Aotearoa and Te Waipounamu.* PhD thesis, VUW; 2002 | [VUW repository](https://www.wgtn.ac.nz) | Irihapeti Ramsden's foundational articulation of **cultural safety / Kawa Whakaruruhau** — the origin of the concept the AMC condition derives from | Theory |
 | Papps & Ramsden. Cultural safety in nursing: the New Zealand experience. *Int J Qual Health Care.* 1996;8(5):491–497 | [doi](https://doi.org/10.1093/intqhc/8.5.491) | The peer-reviewed articulation of cultural safety | Theory |
 | Government Inquiry into Mental Health and Addiction. *He Ara Oranga.* NZ Government; 2018 | [mentalhealth.inquiry.govt.nz](https://mentalhealth.inquiry.govt.nz) | The landmark NZ inquiry (40 recommendations) centring equity and Māori mental health | Evidence |
-| Rangihuna, Kopua & Tipene-Leach. Mahi a Atua: a pathway forward for Māori mental health? *NZ Med J.* 2018;131(1471):79–83 | [pubmed](https://pubmed.ncbi.nlm.nih.gov/29518802/) | A narratives-based (pūrākau) Māori approach to assessment and therapy | Theory |
-| Ahuriri-Driscoll et al. *The Future of Rongoā Māori: Wellbeing and Sustainability.* ESR / Ministry of Health; 2008 | report | Traditional Māori healing (rongoā) — a Ministry-commissioned report on wellbeing and sustainability | Theory |
-| RANZCP. *Position Statement 105: Cultural Safety.* 2016 (rev. 2023) | [ranzcp.org](https://www.ranzcp.org/clinical-guidelines-publications/cultural-safety) | The College's position affirming culturally safe care as a right for Aboriginal and Torres Strait Islander peoples and Māori | RANZCP internal |
+| Rangihuna, Kopua & Tipene-Leach. Mahi a Atua: a pathway forward for Māori mental health? *NZ Med J.* 2018;131(1471):79–83 | https://nzmj.org.nz/media/pages/journal/vol-131-no-1471/mahi-a-atua-a-pathway-forward-for-maori-mental-health/2f88ad3102-1696474232/mahi-a-atua-a-pathway-forward-for-maori-mental-health.pdf | A narratives-based (pūrākau) Māori approach to assessment and therapy | Theory |
+| Ahuriri-Driscoll et al. *The Future of Rongoā Māori: Wellbeing and Sustainability.* ESR / Ministry of Health; 2008 | report | Traditional Māori healing (rongoā) — a Ministry-commissioned report on wellbeing and sustainability and traditional healing practices | Theory |
 
 ---
 
-## 11. Program Evaluation
+## 12. Program Evaluation
 
 Design the evaluation in from the start (Kern's Step 6). Kirkpatrick (with the Barr/Hammick medical-education adaptation) gives the outcomes framework; CIPP offers a decision-oriented alternative suited to continuous improvement; Cook & Beckman is the standard for validating the program's own assessment tools — which RANZCP should do, to answer critics like Amos et al. with its *own* evidence rather than assertion. Van Melle's Core Components Framework (§1) doubles as the implementation-fidelity yardstick.
 
@@ -237,7 +227,7 @@ Design the evaluation in from the start (Kern's Step 6). Kirkpatrick (with the B
 
 ---
 
-## 12. The Training-to-Practice Continuum (Transition to Practice & Early-Career Consolidation)
+## 13. The Training-to-Practice Continuum (Transition to Practice & Early-Career Consolidation)
 
 Fellowship marks **competence, not maturity** — and a substantial literature argues training should not stop there. The years immediately after qualification are a distinct, high-stakes, formative phase in which the new specialist consolidates toward genuinely independent, expert practice. The strongest structural precedent is the Royal College of Canada's **Competence by Design**, whose four-stage continuum *ends* in a designed **"Transition to Practice"** stage. The transition literature (Westerman & Teunissen; Kilminster) shows new consultants feel clinically prepared but underprepared for the *non-clinical* demands of autonomy and are at real burnout risk; "preparedness is not enough." For psychiatry this is also identity-and-belonging work. *Design implication: RANZCP's Stage 3 "Advanced" and Certificate of Advanced Training partly address this, but the evidence supports an explicit, supported Transition to Practice / early-career phase — tapering entrustment, defined early-career capabilities, structured mentoring/preceptorship, and reframing the first CPD years as continued formation.* This connects to §8 (faculty development), §9 (identity formation continues), and the entrustment logic of the CCPR.
 
@@ -258,7 +248,7 @@ Fellowship marks **competence, not maturity** — and a substantial literature a
 
 ---
 
-## 13. Assessment Review Panels
+## 14. Assessment Review Panels
 
 Assessment review panels — variously called clinical competency committees (CCCs) or progress committees, and in the RANZCP system the **Portfolio Review Panel** and **Portfolio Review Oversight Panel (PROP)** — are the bodies that synthesise the many workplace-based assessment and EPA data points into a single defensible, fair progression or entrustment decision. They are the human engine of programmatic assessment and the decision-making heart of the portfolio/competence review. The literature is clear that these panels are *interpretive and judgement-based, not mechanical aggregators*: they construct meaning from the evidence, so their quality depends on group-decision process, calibration, management of conflict and bias, explicit narrative reasoning, and demonstrable defensibility (Kane's validity argument applies directly — see §5). *Design implication: invest in panel composition, training and calibration; require documented narrative reasoning; build in procedural fairness (transparency, audit trails, firewalling/conflict management, a "second-look" oversight tier); and treat well-supported panel judgement as legitimate signal — links to §5 (Assessment), §6 (Burden of Assessment) and §8 (Faculty Development).*
 
@@ -276,32 +266,12 @@ Assessment review panels — variously called clinical competency committees (CC
 
 ---
 
-## Cross-cutting note
-
-Four themes recur across sections and are worth tracking as the redesign proceeds:
-
-1.  **From objectivity to trustworthiness** — the assessment evidence (§5, §10) has moved from
-"is it objective?" to "is the *programme* trustworthy?"; the CCPR is on the right side of this.
-
-2.  **Judgement as signal, not noise** — examiner subjectivity (§5), expert narrative (§9) and
-programmatic assessment (§5) all rest on *legitimised expert judgement* — which raises the stakes for faculty development (§8) and assessor literacy (§6).
-
-3.  **Equity by design** (§10) — the differential-attainment evidence must shape assessment,
-faculty training and curriculum content, in line with the AMC conditions.
-
-4.  **Training as a continuum, not an endpoint** (§12) — competence at Fellowship is not maturity;
-the evidence supports a supported Transition to Practice / early-career phase rather than treating qualification as the finish line.
-
-*Verification: citations checked against PubMed/publisher records via a multi-source research pass; residual page/author checks are flagged inline as (confirm).*
-
----
-
 ## AI use statement
 
 This document was prepared with the assistance of generative artificial intelligence (Anthropic's Claude). AI was used to identify, summarise and organise the medical-education and educational literature, to draft the section narratives and reference tables, and to format the document.
 
 Citations were checked against PubMed and publisher records through structured, multi-source web searches. Where the AI's initial recollection of a reference was inaccurate it was corrected during this process, and residual uncertainties are flagged inline (e.g. "(confirm)"). Nonetheless, AI can make errors or omissions: the AI did not independently appraise the clinical or educational claims of the underlying sources, and the selection and framing of references involve editorial judgements that should be reviewed by the responsible authors/committee before the document is relied upon. This is a working evidence compilation, not a peer-reviewed publication.
 
-The First Nations mental-health material (§10a) must additionally be reviewed and led by Aboriginal and Torres Strait Islander and by Māori mental-health colleagues and knowledge-holders before use, as set out in the note within that section.
+The First Nations mental-health material (§11) must additionally be reviewed and led by Aboriginal and Torres Strait Islander and by Māori mental-health colleagues and knowledge-holders before use, as set out in the note within that section.
 
-*Version 5.0 — prepared 17 June 2026. Responsible author/owner: Dr Anthony Llewellyn, Medical Education Specialist and Fellow. AI tool: Anthropic Claude (via Claude Code).*
+*Version 6.0 — prepared 17 June 2026. Responsible author/owner: Dr Anthony Llewellyn, Medical Education Specialist and Fellow. AI tool: Anthropic Claude (via Claude Code).*
