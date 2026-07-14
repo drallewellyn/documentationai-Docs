@@ -1,6 +1,6 @@
 # RANZCP Psychiatry Training Redesign — Sectioned Evidence Report
 
-**Version 7.0 — 17 June 2026**
+**Version 7.1 — 17 June 2026**
 
 *★ marks references newly added from the NFPT (Dean’s) literature review — flagged for your review.*
 
@@ -68,6 +68,7 @@ Curriculum design is a method, not an act of taste. Kern's six-step approach is 
 | Biggs & Tang. *Teaching for Quality Learning at University.* 5th ed; 2022 | ISBN 9780335250820 | Constructive alignment: intended outcomes, teaching/learning activities and assessment must all line up — the operational backbone of coherent course design | Theory |
 | Biggs. Enhancing teaching through constructive alignment. *Higher Educ.* 1996 | [doi](https://doi.org/10.1007/BF00138871) | The original journal statement of constructive alignment | Theory |
 | Harden RM, Laidlaw JM. Essential skills for a medical teacher: an introduction to teaching and learning in medicine. 3rd ed. Elsevier; 2021. | [doi](https://doi.org/10.1111/j.1365-2923.1984.tb01024.x) | A six-dimension spectrum (Student-centred, Problem-based, Integrated, Community-based, Elective, Systematic) for positioning the *strategic* shape of a curriculum — e.g. how integrated and recovery/community-oriented the psychiatry program should be | Theory |
+| Frank, Snell, Ten Cate, Holmboe, Carraccio, Swing, et al. (International CBME Collaborators). Competency-based medical education: theory to practice. *Med Teach.* 2010;32(8):638–645 | [doi](https://doi.org/10.3109/0142159X.2010.501190) | The consensus definitional statement of CBME — outcomes-based, de-emphasising time, promoting learner-centredness — and a candid account of the theory-to-practice tensions (assessment, faculty development, systems) a program must resolve. The reference point for what "competency-based" actually commits the redesign to. | Theory |
 | ★ Schwartzstein et al. The Harvard Medical School Pathways Curriculum. *Acad Med.* 2020;95(11):1687–1695 | [doi](https://doi.org/10.1097/ACM.0000000000003270) | A worked example of redesigning a curriculum for contemporary learners — developmentally staged and integrated. | Theory |
 | ★ Ellaway, Wyatt, Kelly. Grim fairy tales of curriculum change in medical education. *Med Educ.* 2026;60(1):25–27 | [doi](https://doi.org/10.1111/medu.15681) | A cautionary reflection on how curriculum-change efforts founder — a standing warning on implementation risk. | Theory |
 | ★ Mark, Poole, Agrawal. Integration of neuroscience into psychiatric training and practice. *BJPsych Bull.* 2025;49(4):278–284 | [doi](https://doi.org/10.1192/bjb.2024.24) *(confirm pages)* | Argues for embedding contemporary neuroscience in the psychiatry curriculum — a content-scope decision. | Theory |
@@ -330,4 +331,4 @@ Citations were checked against PubMed and publisher records through structured, 
 
 The First Nations mental-health material (§11) must additionally be reviewed and led by Aboriginal and Torres Strait Islander and by Māori mental-health colleagues and knowledge-holders before use, as set out in the note within that section.
 
-*Version 7.0 — prepared 17 June 2026. Responsible author/owner: Dr Anthony Llewellyn, Medical Education Specialist and Fellow. AI tool: Anthropic Claude (via Claude Code).*
+*Version 7.1 — prepared 17 June 2026. Responsible author/owner: Dr Anthony Llewellyn, Medical Education Specialist and Fellow. AI tool: Anthropic Claude (via Claude Code).*
