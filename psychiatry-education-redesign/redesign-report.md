@@ -1,6 +1,6 @@
 # RANZCP Psychiatry Training Redesign — Sectioned Evidence Report
 
-**Version 7.2 — 17 June 2026**
+**Version 7.3 — 17 June 2026**
 
 *A synthesis of the medical-education and educational literature informing the redesign, organised by design domain. Each section opens with a short narrative on how the references bear on the redesign, followed by a reference table.*
 
@@ -37,6 +37,7 @@ The redesign sits inside a competency-based architecture the College has already
 | Australian Medical Council Limited. Accreditation report: The education and training programs of the Royal Australian and New Zealand College of Psychiatrists. Specialist Education Accreditation Committee; 2023. | [ranzcp.org](https://www.ranzcp.org/getmedia/397638ad-1fdb-43f5-8ff6-870a22b1dbdd/2023-RANZCP-Report-secured.pdf) | The College's most recent accreditation report from the Australian Medical Council. | RANZCP internal |
 | Jurd et al. Introducing a competency based Fellowship programme for psychiatry in Australia and New Zealand. *Australas Psychiatry.* 2015;23(6):699–705 | [doi](https://doi.org/10.1177/1039856215600898) | The foundational RANZCP paper introducing the competency-based Fellowship program — the local origin of the CBF/EPA model now being redesigned. | Theory |
 | Alharbi. Evaluating competency-based medical education: a systematized review of current practices. *BMC Med Educ.* 2024;24:612 | [doi](https://doi.org/10.1186/s12909-024-05609-6) | A systematized review of how CBME is actually implemented internationally — a stocktake of current practice. This review illustrates the importance of agreeing on the main evaluation elements to be reported when publishing a CBME evaluation. | Evidence |
+| RANZCP. *Strategic Plan 2026–2030.* RANZCP; 2026 | [ranzcp.org](https://www.ranzcp.org) | The College strategy the Fellowship Program is accountable to (vision, priorities, values); the curriculum taskforce maps its Program Outcomes directly to these priorities. | RANZCP internal |
 
 ---
 
@@ -70,6 +71,8 @@ Curriculum design is a method, not an act of taste. Kern's six-step approach is 
 | Ellaway, Wyatt, Kelly. Grim fairy tales of curriculum change in medical education. *Med Educ.* 2026;60(1):25–27 | [doi](https://doi.org/10.1111/medu.15681) | A cautionary reflection on how curriculum-change efforts founder — a standing warning on implementation risk. | Theory |
 | Evans et al. 'See one, do one, teach one': leadership and management training in Australian medical curricula. *Australas Psychiatry.* 2022;30(1):136 | [doi](https://doi.org/10.1177/10398562211029949) | Argues leadership and management belong in the curriculum, not only clinical skills. | Theory |
 | Till, Sen, Crimlisk. Psychiatric leadership development in postgraduate medical education and training. *BJPsych Bull.* 2022;46(3):174–181 | [doi](https://doi.org/10.1192/bjb.2021.32) | Psychiatry-specific leadership development across training. | Theory |
+| AMC. *Digital Health in Medicine Capability Framework.* Australian Medical Council; 2021 | [amc.org.au (PDF)](https://www.amc.org.au/wp-content/uploads/2021/08/Digital-Health-in-Medicine-Capability-Framework-FINAL-19-August-2021.pdf) | The cross-specialty baseline for digital-health and AI capabilities expected of all Australian medical specialists — the source for the curriculum's digital-health/AI content. | Regulatory/AMC |
+| RANZCP. *Victorian Psychiatry Leadership Framework.* RANZCP; 2024 | [ranzcp.org](https://www.ranzcp.org/news-analysis/victorian-psychiatrist-leadership-framework) | A psychiatry-specific leadership framework (developed after the Victorian Royal Commission) supplying detailed leadership competencies and developmental milestones for the curriculum's leadership strand. | RANZCP internal |
 
 ---
 
@@ -174,6 +177,7 @@ The highest-leverage, most-neglected investment in any CBME rollout. A programma
 | Steinert et al. Faculty development to improve teaching: BEME Guide No. 8. *Med Teach.* 2006 | [doi](https://doi.org/10.1080/01421590600902976) | Systematic-review evidence that faculty-development initiatives improve teaching effectiveness | Evidence |
 | Steinert et al. Faculty development — 10-year update: BEME Guide No. 40. *Med Teach.* 2016 | [doi](https://doi.org/10.1080/0142159X.2016.1181851) | The ten-year update confirming and extending the evidence on what makes faculty development work | Evidence |
 | Dreyfus. The five-stage model of adult skill acquisition. *Bull Sci Technol Soc.* 2004 | [doi](https://doi.org/10.1177/0270467604264992) | The novice → advanced beginner → competent → proficient → expert progression — the shared language underpinning Milestones and entrustment levels | Theory |
+| Standardised Supervisor Training System (SSTS) — national framework, RANZCP-modified | [ranzcp.org](https://www.ranzcp.org) | The structured supervisor-training program adopted (with RANZCP modifications) for psychiatric supervisor development — the backbone of faculty development for the redesign. | RANZCP internal |
 
 ---
 
@@ -191,6 +195,7 @@ The distinctively psychiatric strand: the clinician's *self* is the instrument. 
 | Mann, Gordon, MacLeod. Reflection and reflective practice: systematic review. *Adv Health Sci Educ.* 2009 | [doi](https://doi.org/10.1007/s10459-007-9090-2) | Systematic review: reflection can be taught and matters, but the evidence is uneven — so design reflective practice purposefully | Evidence |
 | Graham, Gask et al. Balint-style case discussion groups in psychiatric training. *Acad Psychiatry.* 2009 | [doi](https://doi.org/10.1176/appi.ap.33.3.198) | Psychiatry-specific evaluation of Balint groups for processing the doctor–patient relationship and countertransference. | Evidence |
 | Seth et al. The impact of coaching on professional identity development in postgraduate medical trainees: a scoping review. *Med Educ.* 2025 *(online-first)* | [doi](https://doi.org/10.1111/medu.70106) | Scoping review linking coaching to professional identity formation. | Evidence |
+| RANZCP. *Code of Ethics* (current edition; revision in progress, 2026) | [ranzcp.org](https://www.ranzcp.org) | The College's ethical standards anchoring professional-identity and ethical-practice outcomes; the revision is expected to strengthen cultural safety, structural ethics and responsible use of emerging technologies. | RANZCP internal |
 
 ---
 
@@ -207,6 +212,7 @@ The AMC's cultural-safety conditions influence this redesign, and the assessment
 | Newton-Howes et al. Does a comprehensive service user-led education programme…? (comparative cohort study). *ANZJP.* 2021;55(9):903–910 | [doi](https://doi.org/10.1177/0004867420987886) | Evidence that lived-experience (service-user-led) education shifts trainee attitudes toward recovery. | Evidence |
 | Ahir-Knight et al. Growing the lived experience voice in psychiatry education and research. *ANZJP.* 2024;58(10):825–828 | [doi](https://doi.org/10.1177/00048674241274278) | An academic department's journey embedding lived experience in education. | Evidence |
 | Leandre, Diaz-Fernandez, Ginory. Are medical students and residents receiving an appropriate education on LGBTQ+ health? *ANZJP.* 2021;55(4):426–427 | [doi](https://doi.org/10.1177/0004867420982069) | Flags LGBTQ+ health as an under-taught equity gap. | Evidence |
+| Council of Medical Colleges & Te ORA. *Cultural Safety Training Plan for Vocational Medicine in Aotearoa.* CMC/Te ORA; 2023 | [cmc.org.nz (PDF)](https://www.cmc.org.nz/media/4xmpx1dz/cultural-safety-training-plan-for-vocational-medicine-in-aotearoa.pdf) | A cross-college cultural-safety training, teaching and assessment framework — with a proficiency rubric and self-assessment tool for registrars and fellows — a ready template for embedding Māori cultural safety in the curriculum. | Regulatory/AMC |
 
 ---
 
@@ -297,6 +303,7 @@ The redesign does not sit in a vacuum: workforce shortages, training bottlenecks
 | Orlik et al. Transforming the journey together: …psychiatry trainee experiences of training and wellbeing. *Australas Psychiatry.* 2022;30(3):391–397 | journals.sagepub.com *(DOI to confirm)* | A co-designed study of trainee wellbeing. | Evidence |
 | Wilkes et al. Bullying within specialist medical training in Australia: analysis of the medical training survey, 2020–2023. *Australas Psychiatry.* 2024;32(5):459–466 | [doi](https://doi.org/10.1177/10398562241269123) | Evidence on bullying — the safety of the learning environment. | Evidence |
 | Tian et al. Increasing demand and persistent gaps in perceived need for mental health care: national findings 2007–2021. *ANZJP.* 2026 | [doi](https://doi.org/10.1177/00048674251393164) *(confirm)* | System demand/need context underpinning workforce planning. | Evidence |
+| A Better Culture. *A Better Culture Curriculum.* A Better Culture; 2025 | [abetterculture.org.au](https://abetterculture.org.au/news-resources/curriculum/) | A cross-specialty curriculum on workplace culture, psychological safety and respectful behaviour (consulted with all medical schools, the medical colleges and the AMC) — the basis for the program's workforce-wellbeing and psychological-safety content. | Theory |
 
 ---
 
@@ -308,4 +315,4 @@ Citations were checked against PubMed and publisher records through structured, 
 
 The First Nations mental-health material (§11) must additionally be reviewed and led by Aboriginal and Torres Strait Islander and by Māori mental-health colleagues and knowledge-holders before use, as set out in the note within that section.
 
-*Version 7.2 — prepared 17 June 2026. Responsible author/owner: Dr Anthony Llewellyn, Medical Education Specialist and Fellow. AI tool: Anthropic Claude (via Claude Code).*
+*Version 7.3 — prepared 17 June 2026. Responsible author/owner: Dr Anthony Llewellyn, Medical Education Specialist and Fellow. AI tool: Anthropic Claude (via Claude Code).*
